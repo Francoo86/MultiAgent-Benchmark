@@ -2,7 +2,7 @@
 $ErrorActionPreference = "Stop"
 
 # Activate virtual environment
-$venvPath = "..\..\SPADE-Timetabling\venv\Scripts\Activate.ps1"
+$venvPath = "..\SPADE-Schedule\venv\Scripts\Activate.ps1"
 if (Test-Path $venvPath) {
     & $venvPath
 } else {
@@ -16,9 +16,20 @@ if (-not (Test-Path $outputDir)) {
     New-Item -ItemType Directory -Path $outputDir
 }
 
+# Get the absolute path to the SPADE-Schedule directory
+$projectPath = Resolve-Path "..\SPADE-Schedule"
+
+# Set PYTHONPATH to include src directory
+$env:PYTHONPATH = "$projectPath\src"
+
 # Run Scalene with full system profiling configuration
 try {
     Write-Host "Starting full system profiling..."
+    Write-Host "Using PYTHONPATH: $env:PYTHONPATH"
+    
+    # Change to project directory before running
+    Push-Location $projectPath
+    
     python -m scalene `
         --html `
         --reduced-profile `
@@ -28,12 +39,14 @@ try {
         --cpu-percent-threshold 0.5 `
         --malloc-threshold 50 `
         --outfile "$outputDir\full_system_profile.html" `
-        ..\..\SPADE-Timetabling\main.py
+        main.py
 
     Write-Host "Profiling completed. Results saved to $outputDir\full_system_profile.html"
 } catch {
     Write-Error "Error during profiling: $_"
 } finally {
+    # Restore original directory
+    Pop-Location
     # Deactivate virtual environment
     deactivate
 }
