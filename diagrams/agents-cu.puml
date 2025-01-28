@@ -1,0 +1,23 @@
+@startuml UNAPAgent
+title "Diagrama de casos de uso para la representacion de Timetabling"
+left to right direction
+actor "Profesor" as Profesor
+actor "Sala" as Sala
+actor "Supervisor/Encargado" as Supervisor
+
+
+Profesor --> (Solicitar horarios)
+Profesor --> (Evaluar propuestas de horario)
+
+usecase "Evaluar las posibles asignaciones de horarios" as Evaluar
+
+Sala --> Evaluar
+Sala --> (Enviar propuestas de horarios)
+
+usecase "Rechazar propuesta de horario" as Rechazar
+usecase "Aceptar propuesta de horario" as Aceptar
+
+Evaluar <. Rechazar : <<extends>>
+Evaluar <. Aceptar : <<extends>>
+
+Supervisor --> (Monitorear agentes)
