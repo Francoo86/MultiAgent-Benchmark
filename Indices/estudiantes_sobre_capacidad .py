@@ -147,6 +147,46 @@ def main():
     
     # 5. Guardar resultados
     save_results(results)
+    
+def main_with_all_scenarios_and_platform(platform: str):
+    platform = platform.upper()
+    print(f"Analizando plataforma: {platform}")
+    # scenarios (full, medium, small)
+    scenario_folder = 'dataset/scenarios'
+    for scenario in ['full', 'medium', 'small']:
+        input_salas = load_json_file(f'{scenario_folder}/{scenario}/salas.json')
+        input_profesores = load_json_file(f'{scenario_folder}/{scenario}/profesores.json')
+        horarios_asignados = load_json_file(f'{platform}_output/{scenario}/Horarios_asignados.json')
 
+        # 2. Crear diccionarios de capacidades y vacantes
+        capacidades = create_capacity_dict(input_salas)
+        vacantes = create_vacancies_dict(input_profesores)
+
+        # 3. Calcular índices
+        results = calculate_occupation_index(horarios_asignados, capacidades, vacantes)
+        
+        # 4. Guardar resultados
+        save_results(results, f'{platform}_output/{scenario}/metricas_ocupacion.json')
+        
+        # 5. Mostrar resultados
+        print(f"\nResultados del análisis de ocupación para el escenario {scenario}:")
+        print(f"Ocupación promedio global: {results['ocupacion_promedio']}%")
+        print(f"\nTotal de asignaciones: {results['detalles']['total_asignaciones']}")
+        print(f"Asignaciones sobre capacidad: {results['detalles']['asignaciones_sobre_capacidad']}")
+        print(f"Asignaciones bajo capacidad: {results['detalles']['asignaciones_bajo_capacidad']}")
+        
+        print("Detalles de algunas asignaciones:")
+        for asignacion in results['ocupacion_por_asignacion'][:5]:
+            print(f"\nSala {asignacion['sala']}:")
+            print(f"  Asignatura: {asignacion['asignatura']} ({asignacion['codigo']})")
+            print(f"  Capacidad sala: {asignacion['capacidad_sala']}")
+            print(f"  Vacantes: {asignacion['vacantes']}")
+            print(f"  Índice ocupación: {asignacion['indice_ocupacion']}%")
+        
+        
+        
+        
+        
 if __name__ == "__main__":
-    main()
+    main_with_all_scenarios_and_platform('SPADE')
+    main_with_all_scenarios_and_platform('JADE')
