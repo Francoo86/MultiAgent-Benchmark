@@ -1,4 +1,5 @@
 .venv/
 *.csv
-*.json
+SPADE_output/
+JADE_output/
 *.png
