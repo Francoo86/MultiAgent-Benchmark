@@ -1,17 +1,17 @@
 {
   "estadisticas_por_sala": {
-    "KAUS3": {
-      "ventanas": 12,
-      "bloques_ocupados": 12,
+    "KAUT2": {
+      "ventanas": 0,
+      "bloques_ocupados": 0,
       "schedule": [
         [
           false,
           false,
           false,
           false,
-          true,
           false,
-          true,
+          false,
+          false,
           false,
           false
         ],
@@ -20,9 +20,9 @@
           false,
           false,
           false,
-          true,
           false,
-          true,
+          false,
+          false,
           false,
           false
         ],
@@ -31,9 +31,9 @@
           false,
           false,
           false,
-          true,
           false,
-          true,
+          false,
+          false,
           false,
           false
         ],
@@ -42,181 +42,159 @@
           false,
           false,
           false,
-          true,
           false,
-          true,
+          false,
+          false,
           false,
           false
         ],
         [
-          true,
           false,
-          true,
           false,
-          true,
           false,
-          true,
+          false,
+          false,
+          false,
+          false,
           false,
           false
         ]
       ]
     },
-    "KAUS2": {
-      "ventanas": 20,
-      "bloques_ocupados": 21,
+    "S316": {
+      "ventanas": 1,
+      "bloques_ocupados": 28,
       "schedule": [
         [
           true,
-          false,
           true,
-          false,
           true,
-          false,
           true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false,
           false
         ],
         [
           true,
           false,
-          true,
           false,
-          true,
           false,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
           false,
-          true,
           false,
-          true,
           false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
           false,
           false
         ]
       ]
     },
-    "KAUS1": {
-      "ventanas": 15,
-      "bloques_ocupados": 30,
+    "KAUT1": {
+      "ventanas": 0,
+      "bloques_ocupados": 0,
       "schedule": [
         [
-          true,
           false,
-          true,
           false,
-          true,
-          true,
-          true,
-          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false
         ],
         [
-          true,
           false,
-          true,
           false,
-          true,
-          true,
-          true,
-          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false
         ],
         [
-          true,
           false,
-          true,
           false,
-          true,
-          true,
-          true,
-          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false
         ],
         [
-          true,
           false,
-          true,
           false,
-          true,
-          true,
-          true,
-          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false
         ],
         [
-          true,
           false,
-          true,
           false,
-          true,
-          true,
-          true,
-          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false
         ]
       ]
     },
-    "K1": {
-      "ventanas": 16,
-      "bloques_ocupados": 19,
+    "LRSM": {
+      "ventanas": 0,
+      "bloques_ocupados": 6,
       "schedule": [
         [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
           false,
           false,
           false,
-          true,
           false,
-          true,
           false,
-          false
-        ],
-        [
-          true,
           false,
-          true,
           false,
-          true,
-          false,
-          true,
           false,
           false
         ],
@@ -225,87 +203,109 @@
           false,
           false,
           false,
-          true,
           false,
-          true,
-          true,
+          false,
+          false,
+          false,
           false
         ],
         [
-          true,
+          false,
+          false,
           false,
           true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
           false,
-          true,
-          true,
-          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false,
           false
         ]
       ]
     },
     "K2": {
-      "ventanas": 20,
-      "bloques_ocupados": 20,
+      "ventanas": 1,
+      "bloques_ocupados": 25,
       "schedule": [
         [
           true,
-          false,
           true,
-          false,
           true,
-          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
           true,
           false,
           false
         ],
         [
           true,
-          false,
           true,
-          false,
           true,
-          false,
           true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false,
           false
         ],
         [
-          true,
           false,
-          true,
           false,
-          true,
           false,
-          true,
           false,
-          false
-        ],
-        [
-          true,
           false,
-          true,
           false,
-          true,
           false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
           false,
           false
         ]
       ]
     },
-    "A106": {
+    "CM3": {
       "ventanas": 0,
       "bloques_ocupados": 45,
       "schedule": [
@@ -366,1766 +366,424 @@
         ]
       ]
     },
-    "CM3": {
-      "ventanas": 18,
-      "bloques_ocupados": 19,
+    "LAMB": {
+      "ventanas": 0,
+      "bloques_ocupados": 45,
       "schedule": [
         [
           true,
-          false,
-          true,
-          false,
-          true,
-          false,
           true,
           true,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
           true,
-          false,
           true,
-          false,
-          false
+          true,
+          true,
+          true,
+          true
         ],
         [
           true,
-          false,
           true,
-          false,
           true,
-          false,
           true,
-          false,
-          false
+          true,
+          true,
+          true,
+          true,
+          true
         ],
         [
           true,
-          false,
           true,
-          false,
           true,
-          false,
           true,
-          false,
-          false
+          true,
+          true,
+          true,
+          true,
+          true
         ],
         [
           true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "K3": {
-      "ventanas": 16,
-      "bloques_ocupados": 27,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
           true,
           true,
           true,
           true,
-          false
+          true,
+          true,
+          true,
+          true
         ],
         [
           true,
-          false,
           true,
-          false,
           true,
           true,
           true,
           true,
-          false
-        ],
-        [
           true,
-          false,
           true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "CM5": {
-      "ventanas": 15,
-      "bloques_ocupados": 30,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "CM4": {
-      "ventanas": 15,
-      "bloques_ocupados": 30,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "E1": {
-      "ventanas": 13,
-      "bloques_ocupados": 17,
-      "schedule": [
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "CM6": {
-      "ventanas": 13,
-      "bloques_ocupados": 16,
-      "schedule": [
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "IM3": {
-      "ventanas": 13,
-      "bloques_ocupados": 17,
-      "schedule": [
-        [
-          false,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "IM2": {
-      "ventanas": 12,
-      "bloques_ocupados": 12,
-      "schedule": [
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "IM4": {
-      "ventanas": 15,
-      "bloques_ocupados": 15,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
+          true
         ]
       ]
     },
     "E6": {
-      "ventanas": 12,
+      "ventanas": 1,
+      "bloques_ocupados": 35,
+      "schedule": [
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          true,
+          true,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      ]
+    },
+    "IM4": {
+      "ventanas": 1,
+      "bloques_ocupados": 14,
+      "schedule": [
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      ]
+    },
+    "LCOM": {
+      "ventanas": 0,
+      "bloques_ocupados": 0,
+      "schedule": [
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      ]
+    },
+    "TBD": {
+      "ventanas": 2,
       "bloques_ocupados": 15,
       "schedule": [
         [
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
           true,
           true,
-          false
-        ],
-        [
-          true,
           false,
           false,
           false,
-          true,
           false,
-          true,
+          false,
           false,
           false
         ],
         [
           false,
-          false,
-          false,
-          false,
+          true,
+          true,
+          true,
           true,
           false,
-          true,
+          false,
           false,
           false
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
         ],
         [
           false,
           false,
           false,
           false,
-          true,
-          true,
-          true,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false,
           false
         ]
       ]
     },
-    "IC1": {
-      "ventanas": 16,
-      "bloques_ocupados": 27,
+    "S210": {
+      "ventanas": 1,
+      "bloques_ocupados": 39,
       "schedule": [
         [
           true,
-          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
           true,
           false,
-          true,
-          true,
-          true,
-          true,
+          false,
+          false,
+          false,
+          false,
           false
         ],
         [
           true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
           true,
           true,
           true,
           true,
-          false
-        ]
-      ]
-    },
-    "CRP43": {
-      "ventanas": 15,
-      "bloques_ocupados": 30,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
           true,
           true,
           true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
+          true
         ]
       ]
     },
     "IC3": {
-      "ventanas": 13,
-      "bloques_ocupados": 17,
-      "schedule": [
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          true,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "IC2": {
-      "ventanas": 10,
-      "bloques_ocupados": 14,
-      "schedule": [
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "IC4": {
-      "ventanas": 13,
-      "bloques_ocupados": 21,
-      "schedule": [
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "KAUL1": {
-      "ventanas": 20,
-      "bloques_ocupados": 20,
+      "ventanas": 4,
+      "bloques_ocupados": 28,
       "schedule": [
         [
           true,
           false,
           true,
           false,
-          true,
           false,
           true,
-          false,
-          false
-        ],
-        [
           true,
-          false,
           true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "KAUT8": {
-      "ventanas": 20,
-      "bloques_ocupados": 22,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
           true
         ],
         [
           true,
           false,
-          true,
           false,
-          true,
           false,
-          true,
           false,
-          false
-        ],
-        [
-          true,
           false,
-          true,
           false,
-          true,
-          false,
-          true,
           false,
           false
         ],
         [
           true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true
-        ]
-      ]
-    },
-    "KAUT7": {
-      "ventanas": 15,
-      "bloques_ocupados": 29,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
           true,
           true,
           true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
           true,
           true,
           true,
           true,
           true
-        ]
-      ]
-    },
-    "KAUT6": {
-      "ventanas": 15,
-      "bloques_ocupados": 29,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
         ],
         [
           true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
           true,
           true,
           true,
           true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
           true,
           true,
           true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "IC8": {
-      "ventanas": 19,
-      "bloques_ocupados": 22,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "KAUT5": {
-      "ventanas": 14,
-      "bloques_ocupados": 14,
-      "schedule": [
-        [
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
+          true
         ],
         [
           false,
           false,
           false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "KAUT4": {
-      "ventanas": 18,
-      "bloques_ocupados": 23,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "KAUT3": {
-      "ventanas": 20,
-      "bloques_ocupados": 20,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "KAUT2": {
-      "ventanas": 15,
-      "bloques_ocupados": 16,
-      "schedule": [
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "KAUT1": {
-      "ventanas": 18,
-      "bloques_ocupados": 22,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "LAMB": {
-      "ventanas": 14,
-      "bloques_ocupados": 14,
-      "schedule": [
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "D105": {
-      "ventanas": 16,
-      "bloques_ocupados": 16,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ]
-      ]
-    },
-    "IOLAB": {
-      "ventanas": 18,
-      "bloques_ocupados": 25,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          true,
-          false
-        ]
-      ]
-    },
-    "CRP33": {
-      "ventanas": 14,
-      "bloques_ocupados": 18,
-      "schedule": [
-        [
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          true,
-          false,
-          true,
-          true,
-          true,
-          false,
-          false
-        ],
-        [
-          false,
-          false,
-          false,
-          false,
-          true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
-          true,
-          false,
-          true,
           false,
           true,
           true,
@@ -2136,89 +794,17 @@
       ]
     },
     "ANT21": {
-      "ventanas": 0,
-      "bloques_ocupados": 45,
-      "schedule": [
-        [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ],
-        [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ],
-        [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ],
-        [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ],
-        [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ]
-      ]
-    },
-    "KAUS5": {
-      "ventanas": 12,
+      "ventanas": 1,
       "bloques_ocupados": 12,
       "schedule": [
         [
           true,
-          false,
-          false,
-          false,
           true,
-          false,
-          true,
-          false,
-          false
-        ],
-        [
           true,
           false,
           false,
           false,
-          true,
           false,
-          true,
           false,
           false
         ],
@@ -2227,9 +813,31 @@
           false,
           false,
           false,
-          true,
           false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
           true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false,
           false
         ],
@@ -2238,290 +846,158 @@
           false,
           false,
           false,
-          true,
           false,
-          true,
+          false,
+          false,
           false,
           false
+        ]
+      ]
+    },
+    "LC6": {
+      "ventanas": 2,
+      "bloques_ocupados": 32,
+      "schedule": [
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
         ],
         [
           false,
           false,
           false,
           false,
-          true,
           false,
-          true,
           false,
+          false,
+          false,
+          false
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
           false
         ]
       ]
     }
   },
   "estadisticas_duracion": {
-    "KAUS3": {
-      "duraciones": {
-        "1": 7,
-        "2": 5
-      },
-      "total_bloques": 17
+    "KAUT2": {
+      "duraciones": {},
+      "total_bloques": 0
     },
-    "KAUS2": {
+    "S316": {
       "duraciones": {
-        "1": 16,
-        "2": 4
+        "8": 1
       },
-      "total_bloques": 24
+      "total_bloques": 8
     },
-    "KAUS1": {
-      "duraciones": {
-        "1": 15
-      },
-      "total_bloques": 15
+    "KAUT1": {
+      "duraciones": {},
+      "total_bloques": 0
     },
-    "K1": {
-      "duraciones": {
-        "1": 11,
-        "2": 4,
-        "3": 1
-      },
-      "total_bloques": 22
+    "LRSM": {
+      "duraciones": {},
+      "total_bloques": 0
     },
     "K2": {
       "duraciones": {
-        "1": 15,
-        "2": 5
+        "2": 1
       },
-      "total_bloques": 25
+      "total_bloques": 2
     },
-    "A106": {
+    "CM3": {
       "duraciones": {},
       "total_bloques": 0
     },
-    "CM3": {
-      "duraciones": {
-        "1": 14,
-        "2": 4
-      },
-      "total_bloques": 22
-    },
-    "K3": {
-      "duraciones": {
-        "1": 14,
-        "2": 2
-      },
-      "total_bloques": 18
-    },
-    "CM5": {
-      "duraciones": {
-        "1": 15
-      },
-      "total_bloques": 15
-    },
-    "CM4": {
-      "duraciones": {
-        "1": 15
-      },
-      "total_bloques": 15
-    },
-    "E1": {
-      "duraciones": {
-        "2": 3,
-        "1": 8,
-        "3": 2
-      },
-      "total_bloques": 20
-    },
-    "CM6": {
-      "duraciones": {
-        "1": 6,
-        "2": 4,
-        "3": 3
-      },
-      "total_bloques": 23
-    },
-    "IM3": {
-      "duraciones": {
-        "1": 6,
-        "2": 5,
-        "3": 2
-      },
-      "total_bloques": 22
-    },
-    "IM2": {
-      "duraciones": {
-        "3": 2,
-        "1": 5,
-        "2": 5
-      },
-      "total_bloques": 21
-    },
-    "IM4": {
-      "duraciones": {
-        "1": 9,
-        "2": 5,
-        "3": 1
-      },
-      "total_bloques": 22
+    "LAMB": {
+      "duraciones": {},
+      "total_bloques": 0
     },
     "E6": {
       "duraciones": {
-        "1": 6,
-        "2": 4,
-        "3": 2
+        "1": 1
       },
-      "total_bloques": 20
+      "total_bloques": 1
     },
-    "IC1": {
+    "IM4": {
       "duraciones": {
-        "1": 14,
-        "2": 2
+        "4": 1
       },
-      "total_bloques": 18
+      "total_bloques": 4
     },
-    "CRP43": {
-      "duraciones": {
-        "1": 15
-      },
-      "total_bloques": 15
-    },
-    "IC3": {
-      "duraciones": {
-        "1": 10,
-        "2": 3
-      },
-      "total_bloques": 16
-    },
-    "IC2": {
-      "duraciones": {
-        "3": 2,
-        "2": 5,
-        "1": 3
-      },
-      "total_bloques": 19
-    },
-    "IC4": {
-      "duraciones": {
-        "3": 2,
-        "1": 8,
-        "2": 3
-      },
-      "total_bloques": 20
-    },
-    "KAUL1": {
-      "duraciones": {
-        "1": 15,
-        "2": 5
-      },
-      "total_bloques": 25
-    },
-    "KAUT8": {
-      "duraciones": {
-        "1": 17,
-        "2": 3
-      },
-      "total_bloques": 23
-    },
-    "KAUT7": {
-      "duraciones": {
-        "1": 14,
-        "2": 1
-      },
-      "total_bloques": 16
-    },
-    "KAUT6": {
-      "duraciones": {
-        "1": 14,
-        "2": 1
-      },
-      "total_bloques": 16
-    },
-    "IC8": {
-      "duraciones": {
-        "1": 15,
-        "2": 4
-      },
-      "total_bloques": 23
-    },
-    "KAUT5": {
-      "duraciones": {
-        "1": 6,
-        "2": 5,
-        "3": 3
-      },
-      "total_bloques": 25
-    },
-    "KAUT4": {
-      "duraciones": {
-        "1": 14,
-        "2": 4
-      },
-      "total_bloques": 22
-    },
-    "KAUT3": {
-      "duraciones": {
-        "1": 15,
-        "2": 5
-      },
-      "total_bloques": 25
-    },
-    "KAUT2": {
-      "duraciones": {
-        "3": 2,
-        "1": 9,
-        "2": 4
-      },
-      "total_bloques": 23
-    },
-    "KAUT1": {
-      "duraciones": {
-        "1": 13,
-        "2": 5
-      },
-      "total_bloques": 23
-    },
-    "LAMB": {
-      "duraciones": {
-        "3": 1,
-        "1": 8,
-        "2": 5
-      },
-      "total_bloques": 21
-    },
-    "D105": {
-      "duraciones": {
-        "1": 10,
-        "2": 5,
-        "3": 1
-      },
-      "total_bloques": 23
-    },
-    "IOLAB": {
-      "duraciones": {
-        "1": 16,
-        "2": 2
-      },
-      "total_bloques": 20
-    },
-    "CRP33": {
-      "duraciones": {
-        "1": 8,
-        "2": 5,
-        "3": 1
-      },
-      "total_bloques": 21
-    },
-    "ANT21": {
+    "LCOM": {
       "duraciones": {},
       "total_bloques": 0
     },
-    "KAUS5": {
+    "TBD": {
       "duraciones": {
-        "3": 2,
-        "1": 5,
-        "2": 5
+        "7": 1,
+        "4": 1
       },
-      "total_bloques": 21
+      "total_bloques": 11
+    },
+    "S210": {
+      "duraciones": {
+        "6": 1
+      },
+      "total_bloques": 6
+    },
+    "IC3": {
+      "duraciones": {
+        "1": 1,
+        "2": 2,
+        "8": 1
+      },
+      "total_bloques": 13
+    },
+    "ANT21": {
+      "duraciones": {
+        "6": 1
+      },
+      "total_bloques": 6
+    },
+    "LC6": {
+      "duraciones": {
+        "3": 1,
+        "1": 1
+      },
+      "total_bloques": 4
     }
   }
 }

@@ -1,5 +1,8 @@
 import json
 from collections import defaultdict
+import os
+
+print(os.getcwd())
 
 def load_json_file(filename):
     """Carga un archivo JSON y maneja posibles errores."""
@@ -30,7 +33,8 @@ def calculate_te(horarios_salas):
     for sala in horarios_salas:
         for asignatura in sala['Asignaturas']:
             evento_key = f"{asignatura['Nombre']}_{sala['Codigo']}"
-            dia_idx = DIAS.index(asignatura['Dia'])
+            dia_name = asignatura['Dia'].capitalize()
+            dia_idx = DIAS.index(dia_name)
             bloque = asignatura['Bloque']
             periodo = dia_idx * TOTAL_PERIODOS + bloque
             eventos[evento_key].add(periodo)
@@ -77,6 +81,36 @@ def main():
     #    json.dump(results, f, ensure_ascii=False, indent=2)
     
     #print("\nMétricas guardadas en 'metricas_te.json'")
+    
+def main_with_platform(platform : str):
+    platform = platform.upper()
+    print(f"Iniciando análisis de Time-slot Eligibility para {platform}")
+    for scenario in ['full', 'medium', 'small']:
+        horarios_salas = load_json_file(f'{platform}_Output/{scenario}/Horarios_salas.json')
+        
+        if not horarios_salas:
+            print(f"Error al cargar datos para {scenario}")
+            continue
+        
+        te = calculate_te(horarios_salas)
+        print(f"TE promedio para {scenario}: {te:.4f}")
+        
+        # Guardar resultados
+        results = {
+            'scenario': scenario,
+            'te_value': te,
+            'te_percentage': te * 100
+        }
+        
+        print(f"Resultados para {scenario}: {results}")
+        
+        # Guardar resultados en JSON
+        with open(f'{platform}_output/{scenario}/metricas_te.json', 'w', encoding='utf-8') as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
+        
+        print(f"Resultados guardados en 'metricas_te.json' para {scenario}")
+        
 
 if __name__ == "__main__":
-    main()
+    main_with_platform('SPADE')
+    main_with_platform('JADE')

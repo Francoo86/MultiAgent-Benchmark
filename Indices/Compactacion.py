@@ -184,6 +184,18 @@ def main():
         print("\nAnálisis de compactación completado exitosamente")
     else:
         print("Error al completar el análisis de compactación")
+        
+def main_with_all_scenarios_and_platform(platform: str):
+    platform = platform.upper()
+    print(f"Analizando plataforma: {platform}")
+    # scenarios (full, medium, small)
+    for scenario in ['full', 'medium', 'small']:
+        horarios_salas = load_json_file(f'{platform}_output/{scenario}/Horarios_salas.json')
+        compactness_stats = analyze_room_compactness(horarios_salas)
+        df_stats = create_summary_table(compactness_stats)
+        global_compactness = calculate_global_compactness(compactness_stats)
+        save_results(df_stats, global_compactness)
 
 if __name__ == "__main__":
-    main()
+    main_with_all_scenarios_and_platform('SPADE')
+    main_with_all_scenarios_and_platform('JADE')
