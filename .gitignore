@@ -2,4 +2,5 @@
 *.csv
 SPADE_output/
 JADE_output/
+scheduling_output/
 *.png
