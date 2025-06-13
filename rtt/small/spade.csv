@@ -1,0 +1,464 @@
+Timestamp,Sender,Receiver,ConversationID,Performative,RTT_ms,MessageSize_bytes,Success,AdditionalInfo,Ontology
+2025-05-22T01:07:40.551730,ROJAS RODRIGUEZ RO,salaic3@localhost,cfp-1f4ad85a-0d3d-4f12-aa4f-190651109598,propose,2.236,223,True,,classroom-availability
+2025-05-22T01:07:40.551730,ROJAS RODRIGUEZ RO,salalc6@localhost,cfp-b6f30607-2d40-4564-8c0c-3fb23f1bba7c,propose,2.187,223,True,,classroom-availability
+2025-05-22T01:07:40.551730,ROJAS RODRIGUEZ RO,salae6@localhost,cfp-43f4d71e-ee12-4c53-abb0-d6f9a08d7529,propose,2.197,222,True,,classroom-availability
+2025-05-22T01:07:40.551730,ROJAS RODRIGUEZ RO,salacm3@localhost,cfp-72ca9d16-c0d3-4bbd-a8fc-0bb3a11f9408,propose,2.168,223,True,,classroom-availability
+2025-05-22T01:07:40.552731,ROJAS RODRIGUEZ RO,salalamb@localhost,cfp-c03a6110-593a-474e-98cc-4a2b7188a82c,propose,2.138,224,True,,classroom-availability
+2025-05-22T01:07:40.577763,PADILLA GUZMAN SIL,salae6@localhost,cfp-335a8a59-870f-444a-8fa8-de8ef14227bb,propose,1.113,222,True,,classroom-availability
+2025-05-22T01:07:40.577763,PADILLA GUZMAN SIL,salacm3@localhost,cfp-20441870-90d0-46a9-984e-0ff4e1984b30,propose,1.007,223,True,,classroom-availability
+2025-05-22T01:07:40.580768,PADILLA GUZMAN SIL,salaic3@localhost,cfp-e5ff72e7-3df0-46d5-a908-c35fb9b04299,propose,1.359,189,True,,classroom-availability
+2025-05-22T01:07:40.580768,PADILLA GUZMAN SIL,salalc6@localhost,cfp-3bc0cf47-f844-4ca1-be49-8d899d82ab1e,propose,1.358,223,True,,classroom-availability
+2025-05-22T01:07:40.580768,PADILLA GUZMAN SIL,salas210@localhost,cfp-4954825d-9e5b-41e4-84b7-65b75384f5c4,propose,1.271,224,True,,classroom-availability
+2025-05-22T01:07:40.580768,PADILLA GUZMAN SIL,salae6@localhost,cfp-a0c86d48-6065-4043-aa92-1482806c144d,propose,1.275,218,True,,classroom-availability
+2025-05-22T01:07:40.581769,PADILLA GUZMAN SIL,salacm3@localhost,cfp-53c65bc3-f1e4-4725-867b-c7164667f9b8,propose,1.288,223,True,,classroom-availability
+2025-05-22T01:07:40.581769,PADILLA GUZMAN SIL,salalamb@localhost,cfp-1a73c764-1092-4d46-8cfd-5b1877206d08,propose,1.318,224,True,,classroom-availability
+2025-05-22T01:07:40.581769,PADILLA GUZMAN SIL,salak2@localhost,cfp-66d0221a-8881-49fb-a389-00beabc57035,propose,1.301,222,True,,classroom-availability
+2025-05-22T01:07:40.587364,PADILLA GUZMAN SIL,salaic3@localhost,cfp-a20a204a-c1e1-4687-8c88-c956f787636b,propose,1.345,189,True,,classroom-availability
+2025-05-22T01:07:40.587364,PADILLA GUZMAN SIL,salalc6@localhost,cfp-afa72ada-24f1-4a60-9325-7c524289be9d,propose,1.332,223,True,,classroom-availability
+2025-05-22T01:07:40.587364,PADILLA GUZMAN SIL,salas210@localhost,cfp-13300a47-e487-48db-bfd9-d2db73a87fb2,propose,1.345,224,True,,classroom-availability
+2025-05-22T01:07:40.587364,PADILLA GUZMAN SIL,salae6@localhost,cfp-8b418621-84ee-4d98-8960-b241cf033818,propose,1.300,218,True,,classroom-availability
+2025-05-22T01:07:40.587364,PADILLA GUZMAN SIL,salacm3@localhost,cfp-1f7a69ef-3d6f-4b43-8c6a-521edae63367,propose,1.303,223,True,,classroom-availability
+2025-05-22T01:07:40.587364,PADILLA GUZMAN SIL,salalamb@localhost,cfp-6152c8c3-2bab-407c-9f81-ee7b5ad4a1e0,propose,1.313,224,True,,classroom-availability
+2025-05-22T01:07:40.587364,PADILLA GUZMAN SIL,salak2@localhost,cfp-78a1a1bd-1321-48ec-9daf-9f41916fc011,propose,1.323,198,True,,classroom-availability
+2025-05-22T01:07:40.614040,OBILINOVIC GONZ¡LE,salaic3@localhost,cfp-268813a6-daee-4c49-84e3-b0a9315dc2a1,propose,1.136,189,True,,classroom-availability
+2025-05-22T01:07:40.614040,OBILINOVIC GONZ¡LE,salalc6@localhost,cfp-de9e9b3a-331f-4509-8480-7d1f258574b1,propose,1.132,223,True,,classroom-availability
+2025-05-22T01:07:40.614040,OBILINOVIC GONZ¡LE,salas210@localhost,cfp-9df99618-050a-4efa-af8a-9b2c15d74159,propose,1.145,200,True,,classroom-availability
+2025-05-22T01:07:40.614040,OBILINOVIC GONZ¡LE,salae6@localhost,cfp-20e7e245-d12a-4dcc-9806-770686d5368c,propose,1.159,218,True,,classroom-availability
+2025-05-22T01:07:40.614040,OBILINOVIC GONZ¡LE,salacm3@localhost,cfp-4d496776-0b64-44b6-baa6-d35b1350d7d3,propose,1.175,223,True,,classroom-availability
+2025-05-22T01:07:40.614040,OBILINOVIC GONZ¡LE,salalamb@localhost,cfp-ec977efb-028a-4c9c-8761-bc2caf1e1895,propose,1.202,224,True,,classroom-availability
+2025-05-22T01:07:40.614040,OBILINOVIC GONZ¡LE,salak2@localhost,cfp-8d94e97b-93ea-4845-8484-d83375d679fd,propose,1.208,198,True,,classroom-availability
+2025-05-22T01:07:40.618549,OBILINOVIC GONZ¡LE,salaic3@localhost,cfp-e0241cf6-bf07-4937-955f-8eff2657c219,propose,1.103,189,True,,classroom-availability
+2025-05-22T01:07:40.618549,OBILINOVIC GONZ¡LE,salalc6@localhost,cfp-69dc2e5b-aeb0-45ba-9f73-7a8f38fab0f7,propose,1.095,217,True,,classroom-availability
+2025-05-22T01:07:40.618549,OBILINOVIC GONZ¡LE,salas210@localhost,cfp-e1655003-5004-4fa5-aa36-36c744794f38,propose,1.112,200,True,,classroom-availability
+2025-05-22T01:07:40.618549,OBILINOVIC GONZ¡LE,salae6@localhost,cfp-a7f36974-a31d-4ea0-8d24-138037c10947,propose,1.129,218,True,,classroom-availability
+2025-05-22T01:07:40.618549,OBILINOVIC GONZ¡LE,salacm3@localhost,cfp-7990b98e-ffac-4366-909e-6abbd6ed789a,propose,1.145,223,True,,classroom-availability
+2025-05-22T01:07:40.618549,OBILINOVIC GONZ¡LE,salalamb@localhost,cfp-d64596c9-55bf-416f-a37c-07a7ea8fb53b,propose,1.171,224,True,,classroom-availability
+2025-05-22T01:07:40.618549,OBILINOVIC GONZ¡LE,salak2@localhost,cfp-843e3f26-1c9c-4a1d-bfbe-175fd5eb8136,propose,1.187,198,True,,classroom-availability
+2025-05-22T01:07:40.622549,OBILINOVIC GONZ¡LE,salaic3@localhost,cfp-d1f61e05-9226-4fc6-a032-8a8cdd881418,propose,1.753,189,True,,classroom-availability
+2025-05-22T01:07:40.622549,OBILINOVIC GONZ¡LE,salalc6@localhost,cfp-29961521-fe99-4643-b17c-1884041ec5ae,propose,1.788,217,True,,classroom-availability
+2025-05-22T01:07:40.622549,OBILINOVIC GONZ¡LE,salas210@localhost,cfp-c504d158-3881-4827-86b0-44946b4c63d3,propose,1.810,200,True,,classroom-availability
+2025-05-22T01:07:40.622549,OBILINOVIC GONZ¡LE,salae6@localhost,cfp-5975a52e-227d-4f04-9fa7-314ce5533221,propose,1.829,218,True,,classroom-availability
+2025-05-22T01:07:40.622549,OBILINOVIC GONZ¡LE,salacm3@localhost,cfp-bdcb85cf-7091-4a38-a1da-a2464f882570,propose,1.846,223,True,,classroom-availability
+2025-05-22T01:07:40.622549,OBILINOVIC GONZ¡LE,salalamb@localhost,cfp-5b288344-c708-4ebc-a489-cf32e242efec,propose,1.739,222,True,,classroom-availability
+2025-05-22T01:07:40.622549,OBILINOVIC GONZ¡LE,salak2@localhost,cfp-b8a6383d-2a14-46e2-8fb7-490f0e78ccdb,propose,1.673,198,True,,classroom-availability
+2025-05-22T01:07:40.627056,OBILINOVIC GONZ¡LE,salaic3@localhost,cfp-3b8760bd-7505-466f-9e01-e09cc2a9aacf,propose,1.484,189,True,,classroom-availability
+2025-05-22T01:07:40.627056,OBILINOVIC GONZ¡LE,salalc6@localhost,cfp-50fa4875-1f24-410d-a303-f3ae48dbeee3,propose,1.498,217,True,,classroom-availability
+2025-05-22T01:07:40.627056,OBILINOVIC GONZ¡LE,salas210@localhost,cfp-5fa5bf74-cfd1-4114-86ed-41e46ea81a3f,propose,1.535,200,True,,classroom-availability
+2025-05-22T01:07:40.627056,OBILINOVIC GONZ¡LE,salae6@localhost,cfp-217cfdda-4ca0-4471-8248-24f430e27a4b,propose,1.555,218,True,,classroom-availability
+2025-05-22T01:07:40.627056,OBILINOVIC GONZ¡LE,salacm3@localhost,cfp-86588763-5ab9-4335-9e34-f8d262f68b75,propose,1.572,217,True,,classroom-availability
+2025-05-22T01:07:40.627056,OBILINOVIC GONZ¡LE,salalamb@localhost,cfp-f3dd5a85-8232-4028-bead-00f558ca7254,propose,1.595,222,True,,classroom-availability
+2025-05-22T01:07:40.627056,OBILINOVIC GONZ¡LE,salak2@localhost,cfp-df92b127-c17c-40b9-a06e-3fe45c94e44a,propose,1.616,198,True,,classroom-availability
+2025-05-22T01:07:40.631077,OBILINOVIC GONZ¡LE,salaic3@localhost,cfp-38c8be5e-b07d-4d95-a5a2-1dbc8cac36dd,propose,0.844,189,True,,classroom-availability
+2025-05-22T01:07:40.631077,OBILINOVIC GONZ¡LE,salalc6@localhost,cfp-b2512111-8009-41d1-b33c-a44ab6584f29,propose,0.843,217,True,,classroom-availability
+2025-05-22T01:07:40.631077,OBILINOVIC GONZ¡LE,salae6@localhost,cfp-d81d5988-fcd3-40d7-8726-2a596669a8f3,propose,0.860,218,True,,classroom-availability
+2025-05-22T01:07:40.631077,OBILINOVIC GONZ¡LE,salacm3@localhost,cfp-c87eb902-0568-437d-ae99-8c4477017f17,propose,0.868,217,True,,classroom-availability
+2025-05-22T01:07:40.631077,OBILINOVIC GONZ¡LE,salalamb@localhost,cfp-621ded5e-122b-41fd-9e63-5bc00cdb08b2,propose,0.893,220,True,,classroom-availability
+2025-05-22T01:07:40.634057,OBILINOVIC GONZ¡LE,salaic3@localhost,cfp-28c42739-454f-4068-8ea3-babaaed4634a,propose,0.856,189,True,,classroom-availability
+2025-05-22T01:07:40.634057,OBILINOVIC GONZ¡LE,salalc6@localhost,cfp-d2457d8d-0b2d-400f-a20b-5fe94ed7f1f0,propose,0.852,217,True,,classroom-availability
+2025-05-22T01:07:40.634057,OBILINOVIC GONZ¡LE,salae6@localhost,cfp-09126add-ac2d-4fad-83e5-fc0b26385c20,propose,0.879,216,True,,classroom-availability
+2025-05-22T01:07:40.634057,OBILINOVIC GONZ¡LE,salacm3@localhost,cfp-717c7608-7830-47fd-be7d-c48347cb37aa,propose,0.895,217,True,,classroom-availability
+2025-05-22T01:07:40.634057,OBILINOVIC GONZ¡LE,salalamb@localhost,cfp-da1e20d5-0803-4a15-b3ba-46b085c4ad7e,propose,0.909,220,True,,classroom-availability
+2025-05-22T01:07:40.655113,Y¡—EZ MU—OZ RICARD,salaic3@localhost,cfp-3b6e4e5e-c819-4510-9a42-38ed443df044,propose,1.207,189,True,,classroom-availability
+2025-05-22T01:07:40.655113,Y¡—EZ MU—OZ RICARD,salalc6@localhost,cfp-26d41424-f6c9-408d-bbf0-b106ceee75bd,propose,1.202,217,True,,classroom-availability
+2025-05-22T01:07:40.655113,Y¡—EZ MU—OZ RICARD,salas210@localhost,cfp-89a88029-4075-4f90-b749-abc75fee116a,propose,1.223,200,True,,classroom-availability
+2025-05-22T01:07:40.655113,Y¡—EZ MU—OZ RICARD,salae6@localhost,cfp-c60fe7da-730c-48b2-a979-93e7b46f4c13,propose,1.246,216,True,,classroom-availability
+2025-05-22T01:07:40.655113,Y¡—EZ MU—OZ RICARD,salacm3@localhost,cfp-82b8521a-016e-4e41-86a6-7c1107d98197,propose,1.259,217,True,,classroom-availability
+2025-05-22T01:07:40.655113,Y¡—EZ MU—OZ RICARD,salalamb@localhost,cfp-d0160f0f-4677-4c25-b13d-3a23aa341615,propose,1.271,216,True,,classroom-availability
+2025-05-22T01:07:40.655113,Y¡—EZ MU—OZ RICARD,salak2@localhost,cfp-a246ba38-7f1e-439a-a4a2-cac47828b90e,propose,1.285,198,True,,classroom-availability
+2025-05-22T01:07:40.659671,Y¡—EZ MU—OZ RICARD,salaic3@localhost,cfp-a101e885-418b-43da-8971-a1823eb6d081,propose,1.661,189,True,,classroom-availability
+2025-05-22T01:07:40.659671,Y¡—EZ MU—OZ RICARD,salalc6@localhost,cfp-c5365599-b078-416c-8170-2aad03b3afb6,propose,1.710,217,True,,classroom-availability
+2025-05-22T01:07:40.659671,Y¡—EZ MU—OZ RICARD,salas210@localhost,cfp-7d550742-6e46-49e9-82c2-a4b3a2842362,propose,1.778,200,True,,classroom-availability
+2025-05-22T01:07:40.659671,Y¡—EZ MU—OZ RICARD,salae6@localhost,cfp-97e57d05-7f65-40d4-9bd2-72a7e54f38be,propose,1.849,210,True,,classroom-availability
+2025-05-22T01:07:40.659671,Y¡—EZ MU—OZ RICARD,salacm3@localhost,cfp-b0b7c3ee-53f3-4b5b-ae23-db6de722818b,propose,1.922,217,True,,classroom-availability
+2025-05-22T01:07:40.659671,Y¡—EZ MU—OZ RICARD,salalamb@localhost,cfp-f2f7c2c7-9d7e-4c34-a6cf-2ac5791ecd63,propose,1.985,216,True,,classroom-availability
+2025-05-22T01:07:40.659671,Y¡—EZ MU—OZ RICARD,salak2@localhost,cfp-138898d0-92ac-4aa8-8071-4846654bfabc,propose,2.041,198,True,,classroom-availability
+2025-05-22T01:07:40.663645,Y¡—EZ MU—OZ RICARD,salaic3@localhost,cfp-77b0e4c1-164e-4c28-9d93-95444141d8ee,propose,1.007,189,True,,classroom-availability
+2025-05-22T01:07:40.663645,Y¡—EZ MU—OZ RICARD,salalc6@localhost,cfp-2e2d4002-a457-4aa0-88b4-80169be1f2d1,propose,1.016,215,True,,classroom-availability
+2025-05-22T01:07:40.663645,Y¡—EZ MU—OZ RICARD,salas210@localhost,cfp-a07b5611-1eda-4c29-8444-b482c9324d6b,propose,1.033,200,True,,classroom-availability
+2025-05-22T01:07:40.663645,Y¡—EZ MU—OZ RICARD,salae6@localhost,cfp-fb3b4ef5-fb9e-40d6-809b-2416e0ae500a,propose,1.052,210,True,,classroom-availability
+2025-05-22T01:07:40.663645,Y¡—EZ MU—OZ RICARD,salacm3@localhost,cfp-a292ea9f-05f5-453e-abc9-b1ea6802b1eb,propose,1.071,217,True,,classroom-availability
+2025-05-22T01:07:40.663645,Y¡—EZ MU—OZ RICARD,salalamb@localhost,cfp-fb788884-dec9-42f2-ab12-07e59917383b,propose,1.091,216,True,,classroom-availability
+2025-05-22T01:07:40.663645,Y¡—EZ MU—OZ RICARD,salak2@localhost,cfp-8f62c2c5-c07f-4a9f-8419-a584890fe331,propose,1.110,198,True,,classroom-availability
+2025-05-22T01:07:40.668154,Y¡—EZ MU—OZ RICARD,salaic3@localhost,cfp-46d4e110-4827-4a81-9820-93a5e1ce52b6,propose,1.171,189,True,,classroom-availability
+2025-05-22T01:07:40.668154,Y¡—EZ MU—OZ RICARD,salalc6@localhost,cfp-8d386218-d4cb-4e8a-89d6-a422e11eaa6d,propose,1.146,209,True,,classroom-availability
+2025-05-22T01:07:40.668154,Y¡—EZ MU—OZ RICARD,salas210@localhost,cfp-f4d6068e-d319-44e7-9754-16dcf5118def,propose,1.144,200,True,,classroom-availability
+2025-05-22T01:07:40.668154,Y¡—EZ MU—OZ RICARD,salae6@localhost,cfp-b44ac505-7bc0-487f-9f32-cbfe9b0ad556,propose,1.146,210,True,,classroom-availability
+2025-05-22T01:07:40.668154,Y¡—EZ MU—OZ RICARD,salacm3@localhost,cfp-dc5b91ea-0bdc-4878-baf5-97f88302e3e6,propose,1.149,217,True,,classroom-availability
+2025-05-22T01:07:40.668154,Y¡—EZ MU—OZ RICARD,salalamb@localhost,cfp-49ede19f-670c-4f81-9a7b-17c69edb9651,propose,1.159,216,True,,classroom-availability
+2025-05-22T01:07:40.668154,Y¡—EZ MU—OZ RICARD,salak2@localhost,cfp-07b50e48-a785-4796-8b35-114b09c9cb50,propose,1.160,198,True,,classroom-availability
+2025-05-22T01:07:40.671154,Y¡—EZ MU—OZ RICARD,salaic3@localhost,cfp-d42033bd-24d4-4173-94a1-ff151d229dd7,propose,0.918,189,True,,classroom-availability
+2025-05-22T01:07:40.671154,Y¡—EZ MU—OZ RICARD,salalc6@localhost,cfp-9de52b14-07ce-4626-b689-3a7c58b20279,propose,0.917,209,True,,classroom-availability
+2025-05-22T01:07:40.671154,Y¡—EZ MU—OZ RICARD,salae6@localhost,cfp-720fd4ce-d762-489b-8f5e-fb60f752e717,propose,0.944,210,True,,classroom-availability
+2025-05-22T01:07:40.672183,Y¡—EZ MU—OZ RICARD,salacm3@localhost,cfp-bee36022-6c99-4576-835a-60d18dc98cd8,propose,0.961,217,True,,classroom-availability
+2025-05-22T01:07:40.672183,Y¡—EZ MU—OZ RICARD,salalamb@localhost,cfp-b59c01d1-7a9d-4303-8923-1c932a2edbd2,propose,0.978,214,True,,classroom-availability
+2025-05-22T01:07:40.675155,Y¡—EZ MU—OZ RICARD,salaic3@localhost,cfp-9f6cd54b-6c67-4444-9b25-9ce7a2d49c98,propose,0.881,189,True,,classroom-availability
+2025-05-22T01:07:40.675155,Y¡—EZ MU—OZ RICARD,salalc6@localhost,cfp-817ac129-6a37-4147-b60e-a89eaada4d8e,propose,0.884,209,True,,classroom-availability
+2025-05-22T01:07:40.675155,Y¡—EZ MU—OZ RICARD,salae6@localhost,cfp-4bd48054-888e-479b-9b8f-3ab714887223,propose,0.908,210,True,,classroom-availability
+2025-05-22T01:07:40.675155,Y¡—EZ MU—OZ RICARD,salacm3@localhost,cfp-4f552124-424d-4fc3-9511-57f093e37485,propose,0.928,217,True,,classroom-availability
+2025-05-22T01:07:40.675155,Y¡—EZ MU—OZ RICARD,salalamb@localhost,cfp-c86a011e-e0d7-4c79-8c35-3c04848246d1,propose,0.944,212,True,,classroom-availability
+2025-05-22T01:07:40.678480,Y¡—EZ MU—OZ RICARD,salaic3@localhost,cfp-fe9207ff-f75f-4c2a-9221-a0fa1be7cb31,propose,1.403,189,True,,classroom-availability
+2025-05-22T01:07:40.678480,Y¡—EZ MU—OZ RICARD,salalc6@localhost,cfp-886f6fe6-eba0-4461-affa-2b29f6a5519b,propose,1.405,209,True,,classroom-availability
+2025-05-22T01:07:40.678480,Y¡—EZ MU—OZ RICARD,salas210@localhost,cfp-a2824d12-4e6f-49ed-a353-b70a49cffcfd,propose,1.424,200,True,,classroom-availability
+2025-05-22T01:07:40.678480,Y¡—EZ MU—OZ RICARD,salae6@localhost,cfp-894bb812-4f4e-4719-811d-c22d55ce116e,propose,1.448,210,True,,classroom-availability
+2025-05-22T01:07:40.678480,Y¡—EZ MU—OZ RICARD,salacm3@localhost,cfp-fe3fba66-97b0-4b0b-a162-898a0e9b409d,propose,1.479,217,True,,classroom-availability
+2025-05-22T01:07:40.679480,Y¡—EZ MU—OZ RICARD,salalamb@localhost,cfp-3467eb56-b433-48bc-be25-7382064625fd,propose,1.551,208,True,,classroom-availability
+2025-05-22T01:07:40.679480,Y¡—EZ MU—OZ RICARD,salak2@localhost,cfp-e91f29bc-6f04-41a2-991a-5d4e1b1ed28d,propose,1.580,198,True,,classroom-availability
+2025-05-22T01:07:40.682481,Y¡—EZ MU—OZ RICARD,salaic3@localhost,cfp-1bec7532-c710-4d42-862b-5e88af9ac4ff,propose,1.490,189,True,,classroom-availability
+2025-05-22T01:07:40.682481,Y¡—EZ MU—OZ RICARD,salalc6@localhost,cfp-6c695f5b-2146-4aed-a665-8c5231e826f5,propose,1.459,209,True,,classroom-availability
+2025-05-22T01:07:40.682481,Y¡—EZ MU—OZ RICARD,salas210@localhost,cfp-f3130ffb-39be-4896-a697-226fd6dcdb20,propose,1.450,200,True,,classroom-availability
+2025-05-22T01:07:40.682481,Y¡—EZ MU—OZ RICARD,salae6@localhost,cfp-76c0923b-b6a9-4792-8b99-ee4d2ac61079,propose,1.444,208,True,,classroom-availability
+2025-05-22T01:07:40.682481,Y¡—EZ MU—OZ RICARD,salacm3@localhost,cfp-44fcd6ff-2f4b-4b4e-8d96-2b5c572bae0f,propose,1.439,217,True,,classroom-availability
+2025-05-22T01:07:40.682481,Y¡—EZ MU—OZ RICARD,salalamb@localhost,cfp-45cfa332-23b0-4a61-9a30-ac05568843a7,propose,1.423,208,True,,classroom-availability
+2025-05-22T01:07:40.682481,Y¡—EZ MU—OZ RICARD,salak2@localhost,cfp-f7359d8a-90b7-40ee-b5f4-feb7c64cd23f,propose,1.390,198,True,,classroom-availability
+2025-05-22T01:07:40.705280,AZ”CAR AZ”CAR PABL,salaic3@localhost,cfp-2ee4071b-d014-43d7-a023-fdd13d5cbc2a,propose,1.150,189,True,,classroom-availability
+2025-05-22T01:07:40.705821,AZ”CAR AZ”CAR PABL,salalc6@localhost,cfp-d3267530-1395-4268-aba3-e7d3e1c2339d,propose,1.146,209,True,,classroom-availability
+2025-05-22T01:07:40.705821,AZ”CAR AZ”CAR PABL,salas210@localhost,cfp-4e2ab3e0-0181-4ad0-a4b0-f5299925dbd3,propose,1.162,200,True,,classroom-availability
+2025-05-22T01:07:40.705821,AZ”CAR AZ”CAR PABL,salae6@localhost,cfp-e66c1e73-6d0e-484f-8407-3fedbab5b8b3,propose,1.216,208,True,,classroom-availability
+2025-05-22T01:07:40.705821,AZ”CAR AZ”CAR PABL,salacm3@localhost,cfp-69ccc8c6-d64b-4034-bb78-020a6f8f19f8,propose,1.230,213,True,,classroom-availability
+2025-05-22T01:07:40.705821,AZ”CAR AZ”CAR PABL,salalamb@localhost,cfp-3fbb9523-1168-4440-b3dd-dde085b04b22,propose,1.249,208,True,,classroom-availability
+2025-05-22T01:07:40.705821,AZ”CAR AZ”CAR PABL,salak2@localhost,cfp-f8f5bdca-4a60-4bfc-93a0-fc1b0206db03,propose,1.264,198,True,,classroom-availability
+2025-05-22T01:07:40.709814,AZ”CAR AZ”CAR PABL,salaic3@localhost,cfp-235d19cd-8c76-436a-87ea-7b40ff12ca88,propose,0.993,189,True,,classroom-availability
+2025-05-22T01:07:40.709814,AZ”CAR AZ”CAR PABL,salalc6@localhost,cfp-fb9346fe-8b33-47cc-ba4e-e460d4f27243,propose,0.987,209,True,,classroom-availability
+2025-05-22T01:07:40.709814,AZ”CAR AZ”CAR PABL,salas210@localhost,cfp-7e81433f-6c23-4754-aca5-0689df2a5503,propose,0.997,200,True,,classroom-availability
+2025-05-22T01:07:40.709814,AZ”CAR AZ”CAR PABL,salae6@localhost,cfp-3eb863f0-0d8d-4d68-945c-7f8191f97293,propose,1.009,208,True,,classroom-availability
+2025-05-22T01:07:40.709814,AZ”CAR AZ”CAR PABL,salacm3@localhost,cfp-914ba641-eefe-407d-a000-baf4d545df99,propose,1.023,213,True,,classroom-availability
+2025-05-22T01:07:40.709814,AZ”CAR AZ”CAR PABL,salalamb@localhost,cfp-fe0d4845-aa51-41d6-87aa-16d2153d4a3c,propose,1.054,184,True,,classroom-availability
+2025-05-22T01:07:40.709814,AZ”CAR AZ”CAR PABL,salak2@localhost,cfp-8cd670d0-b417-4de3-bd05-f60f1e3c1d89,propose,1.071,198,True,,classroom-availability
+2025-05-22T01:07:40.717494,AZ”CAR AZ”CAR PABL,salaic3@localhost,cfp-d3db1e82-633c-425c-b124-65f9942f1bcf,propose,1.037,187,True,,classroom-availability
+2025-05-22T01:07:40.717494,AZ”CAR AZ”CAR PABL,salalc6@localhost,cfp-8ff87488-0608-483d-a9fd-453d8dc9dd55,propose,1.027,209,True,,classroom-availability
+2025-05-22T01:07:40.717494,AZ”CAR AZ”CAR PABL,salas210@localhost,cfp-66ed4223-7e82-4219-9592-af15b8f3556e,propose,1.040,200,True,,classroom-availability
+2025-05-22T01:07:40.717494,AZ”CAR AZ”CAR PABL,salae6@localhost,cfp-75891e52-21ce-4840-87b5-6b7dcd9aa4dd,propose,1.056,208,True,,classroom-availability
+2025-05-22T01:07:40.717494,AZ”CAR AZ”CAR PABL,salacm3@localhost,cfp-7aaf5eb2-7a59-40ab-885a-9afbe72df0e5,propose,1.071,213,True,,classroom-availability
+2025-05-22T01:07:40.717494,AZ”CAR AZ”CAR PABL,salalamb@localhost,cfp-70b51504-bf70-4906-8a4d-0b9ca2f9d61e,propose,1.083,184,True,,classroom-availability
+2025-05-22T01:07:40.717494,AZ”CAR AZ”CAR PABL,salak2@localhost,cfp-739f8c39-f3c9-465e-a389-862eabd67955,propose,1.090,198,True,,classroom-availability
+2025-05-22T01:07:40.721488,AZ”CAR AZ”CAR PABL,salaic3@localhost,cfp-275dc5c1-65d6-4acf-b97d-3156cddeb7f8,propose,1.168,187,True,,classroom-availability
+2025-05-22T01:07:40.721488,AZ”CAR AZ”CAR PABL,salalc6@localhost,cfp-7f34bcd3-0616-42c2-be5b-6bea89ee0497,propose,1.165,209,True,,classroom-availability
+2025-05-22T01:07:40.721488,AZ”CAR AZ”CAR PABL,salas210@localhost,cfp-f3da1cf5-7259-4a46-98b8-16d47efaefd9,propose,1.177,200,True,,classroom-availability
+2025-05-22T01:07:40.721488,AZ”CAR AZ”CAR PABL,salae6@localhost,cfp-93e7f23a-0f5b-4ac3-ac8b-b263907052cd,propose,1.191,208,True,,classroom-availability
+2025-05-22T01:07:40.721488,AZ”CAR AZ”CAR PABL,salacm3@localhost,cfp-c87480ca-c84b-4f59-bcad-6c29522a867f,propose,1.203,211,True,,classroom-availability
+2025-05-22T01:07:40.721488,AZ”CAR AZ”CAR PABL,salalamb@localhost,cfp-4ba876f9-15fe-48a4-9b27-5d3d82e8ce37,propose,1.216,184,True,,classroom-availability
+2025-05-22T01:07:40.721488,AZ”CAR AZ”CAR PABL,salak2@localhost,cfp-151ce574-dc94-41d9-9cce-0f29976edafb,propose,1.229,198,True,,classroom-availability
+2025-05-22T01:07:40.724990,AZ”CAR AZ”CAR PABL,salaic3@localhost,cfp-99f0866a-68ed-4005-a67f-10bc9e28d5a9,propose,0.968,187,True,,classroom-availability
+2025-05-22T01:07:40.724990,AZ”CAR AZ”CAR PABL,salalc6@localhost,cfp-aa6ed1a5-4d3b-4bf9-a803-f5a536597ad2,propose,0.968,209,True,,classroom-availability
+2025-05-22T01:07:40.724990,AZ”CAR AZ”CAR PABL,salas210@localhost,cfp-e69b6ff4-274a-4974-94d0-149eaf6366fe,propose,0.982,200,True,,classroom-availability
+2025-05-22T01:07:40.724990,AZ”CAR AZ”CAR PABL,salae6@localhost,cfp-d1e6b0e5-91c6-41b0-b6ba-e5d8b0eed7ea,propose,0.998,208,True,,classroom-availability
+2025-05-22T01:07:40.724990,AZ”CAR AZ”CAR PABL,salacm3@localhost,cfp-25d73f48-5682-4ff5-a687-ce3ccdc4daa4,propose,1.031,209,True,,classroom-availability
+2025-05-22T01:07:40.724990,AZ”CAR AZ”CAR PABL,salalamb@localhost,cfp-b8a27589-ba67-426d-bc0b-20f392bb5eaa,propose,1.043,184,True,,classroom-availability
+2025-05-22T01:07:40.724990,AZ”CAR AZ”CAR PABL,salak2@localhost,cfp-8dba2345-05bb-4166-8406-f8ed8b623d2f,propose,1.063,198,True,,classroom-availability
+2025-05-22T01:07:40.728003,AZ”CAR AZ”CAR PABL,salaic3@localhost,cfp-4df264d3-329a-4b80-9d0f-d135ebe1a67f,propose,1.151,187,True,,classroom-availability
+2025-05-22T01:07:40.728003,AZ”CAR AZ”CAR PABL,salalc6@localhost,cfp-4aa808fd-c612-4f29-ae53-d02aa963f7c0,propose,1.170,207,True,,classroom-availability
+2025-05-22T01:07:40.728003,AZ”CAR AZ”CAR PABL,salas210@localhost,cfp-ed6843f0-72be-4f52-9355-f5f6a96886ae,propose,1.183,200,True,,classroom-availability
+2025-05-22T01:07:40.728003,AZ”CAR AZ”CAR PABL,salae6@localhost,cfp-3c4d3db4-9f58-4d76-a141-787c74ec713a,propose,1.199,208,True,,classroom-availability
+2025-05-22T01:07:40.728003,AZ”CAR AZ”CAR PABL,salacm3@localhost,cfp-0db0f73f-006e-4614-894f-643f67baa7d8,propose,1.211,209,True,,classroom-availability
+2025-05-22T01:07:40.728003,AZ”CAR AZ”CAR PABL,salalamb@localhost,cfp-4a0f0f6c-c778-4a53-a594-d32d8f37d86f,propose,1.226,184,True,,classroom-availability
+2025-05-22T01:07:40.728003,AZ”CAR AZ”CAR PABL,salak2@localhost,cfp-32331260-2d5c-444b-bde7-f8ef07982487,propose,1.240,198,True,,classroom-availability
+2025-05-22T01:07:40.749722,LUZA CONTRERAS JUA,salaic3@localhost,cfp-ec77e8b7-f130-4dc3-b6c8-0639df33f60d,propose,1.210,185,True,,classroom-availability
+2025-05-22T01:07:40.749722,LUZA CONTRERAS JUA,salalc6@localhost,cfp-5566460e-f4cc-42f8-a933-be8c72a97db1,propose,1.208,207,True,,classroom-availability
+2025-05-22T01:07:40.749722,LUZA CONTRERAS JUA,salas210@localhost,cfp-6af44262-fa64-4aa9-8cbc-7c0bfc35593b,propose,1.238,200,True,,classroom-availability
+2025-05-22T01:07:40.749722,LUZA CONTRERAS JUA,salae6@localhost,cfp-040c4f43-8b0c-46bd-9c39-b2dc1901846c,propose,1.254,208,True,,classroom-availability
+2025-05-22T01:07:40.749722,LUZA CONTRERAS JUA,salacm3@localhost,cfp-5d52856d-ff7c-4250-8cc3-ca337ef5c156,propose,1.267,209,True,,classroom-availability
+2025-05-22T01:07:40.749722,LUZA CONTRERAS JUA,salalamb@localhost,cfp-d4841e61-3da0-4aca-bcd5-8146d73aba0a,propose,1.282,184,True,,classroom-availability
+2025-05-22T01:07:40.749722,LUZA CONTRERAS JUA,salak2@localhost,cfp-91c807d5-0809-4fa7-a3e7-7ab111e728e0,propose,1.307,198,True,,classroom-availability
+2025-05-22T01:07:40.753721,LUZA CONTRERAS JUA,salaic3@localhost,cfp-b854ed4f-5e17-4a1f-a835-7b39a5bad4eb,propose,1.004,185,True,,classroom-availability
+2025-05-22T01:07:40.753721,LUZA CONTRERAS JUA,salalc6@localhost,cfp-b0035194-12c1-46e0-9bb6-637e3179a123,propose,1.005,207,True,,classroom-availability
+2025-05-22T01:07:40.753721,LUZA CONTRERAS JUA,salas210@localhost,cfp-85aa0b6e-eb52-451c-93ee-fc7287c18935,propose,1.018,200,True,,classroom-availability
+2025-05-22T01:07:40.753721,LUZA CONTRERAS JUA,salae6@localhost,cfp-e02651d1-3829-4792-840c-85f7f9f082b9,propose,1.036,208,True,,classroom-availability
+2025-05-22T01:07:40.753721,LUZA CONTRERAS JUA,salacm3@localhost,cfp-30955756-d038-424e-ae92-791164a688e7,propose,1.050,164,True,,classroom-availability
+2025-05-22T01:07:40.753721,LUZA CONTRERAS JUA,salalamb@localhost,cfp-3bfc0fb6-c587-4656-bcbd-4c94f842ecee,propose,1.071,184,True,,classroom-availability
+2025-05-22T01:07:40.755244,LUZA CONTRERAS JUA,salak2@localhost,cfp-748268b9-7a62-468f-af97-e73a12b20815,propose,1.086,198,True,,classroom-availability
+2025-05-22T01:07:40.761258,LUZA CONTRERAS JUA,salaic3@localhost,cfp-a16a8e67-e489-49b4-ace1-61902b37b0ae,propose,1.006,185,True,,classroom-availability
+2025-05-22T01:07:40.761258,LUZA CONTRERAS JUA,salalc6@localhost,cfp-c7368c86-b5c9-4a19-9f19-73b2ec6d0faa,propose,1.019,207,True,,classroom-availability
+2025-05-22T01:07:40.761258,LUZA CONTRERAS JUA,salas210@localhost,cfp-361099c9-3dab-43b4-b14c-7b4de504a541,propose,1.036,162,True,,classroom-availability
+2025-05-22T01:07:40.761258,LUZA CONTRERAS JUA,salae6@localhost,cfp-c74cac96-2b5b-4b36-9827-fb9e9af7b775,propose,1.052,208,True,,classroom-availability
+2025-05-22T01:07:40.761258,LUZA CONTRERAS JUA,salacm3@localhost,cfp-3631ab77-d20d-4a4d-ac8c-22448eb3ef5a,propose,1.070,164,True,,classroom-availability
+2025-05-22T01:07:40.761258,LUZA CONTRERAS JUA,salalamb@localhost,cfp-5cf628f0-23a6-4b4b-bad8-d26c3b6f4265,propose,1.084,184,True,,classroom-availability
+2025-05-22T01:07:40.761258,LUZA CONTRERAS JUA,salak2@localhost,cfp-cec5d101-4420-4570-a4de-14d1c1cd4ba9,propose,1.099,198,True,,classroom-availability
+2025-05-22T01:07:40.766316,LUZA CONTRERAS JUA,salaic3@localhost,cfp-3d637e69-7434-4394-9b57-2cf05577709e,propose,1.001,185,True,,classroom-availability
+2025-05-22T01:07:40.766316,LUZA CONTRERAS JUA,salalc6@localhost,cfp-90952932-1a57-4cb4-ab31-fb3bb22b3538,propose,1.011,207,True,,classroom-availability
+2025-05-22T01:07:40.766316,LUZA CONTRERAS JUA,salas210@localhost,cfp-1edbd6a2-8890-47fe-9fd2-4461e98ae34e,propose,1.024,162,True,,classroom-availability
+2025-05-22T01:07:40.766316,LUZA CONTRERAS JUA,salae6@localhost,cfp-717870db-02ee-4bdf-ae21-b12f99d3b09a,propose,1.038,184,True,,classroom-availability
+2025-05-22T01:07:40.766316,LUZA CONTRERAS JUA,salacm3@localhost,cfp-66f68d8d-8c35-4b81-b765-b6bbc9ed7ac7,propose,1.052,164,True,,classroom-availability
+2025-05-22T01:07:40.766316,LUZA CONTRERAS JUA,salalamb@localhost,cfp-01425a48-fdc4-4b8f-b22b-55460cb7e23f,propose,1.067,184,True,,classroom-availability
+2025-05-22T01:07:40.766316,LUZA CONTRERAS JUA,salak2@localhost,cfp-39dc33dd-86d4-4694-8afd-1ca17fc3c38a,propose,1.088,198,True,,classroom-availability
+2025-05-22T01:07:40.772316,LUZA CONTRERAS JUA,salaic3@localhost,cfp-287ad290-446a-4dc4-8f73-3850743d8136,propose,0.979,185,True,,classroom-availability
+2025-05-22T01:07:40.772316,LUZA CONTRERAS JUA,salalc6@localhost,cfp-680de5b4-1621-4875-979e-2eda70079edc,propose,0.988,177,True,,classroom-availability
+2025-05-22T01:07:40.772316,LUZA CONTRERAS JUA,salas210@localhost,cfp-ccea6665-37f8-4733-b392-2d774d7fb36e,propose,1.003,162,True,,classroom-availability
+2025-05-22T01:07:40.772316,LUZA CONTRERAS JUA,salae6@localhost,cfp-1e774343-dad2-4e97-a4d4-9d088f3bf71d,propose,1.019,184,True,,classroom-availability
+2025-05-22T01:07:40.772316,LUZA CONTRERAS JUA,salacm3@localhost,cfp-1db277c3-dd00-46f4-9d66-ee1557d98de2,propose,1.041,164,True,,classroom-availability
+2025-05-22T01:07:40.773335,LUZA CONTRERAS JUA,salalamb@localhost,cfp-5f8e985e-d2a7-4883-a4ac-3fc5ae7ed384,propose,1.056,184,True,,classroom-availability
+2025-05-22T01:07:40.773335,LUZA CONTRERAS JUA,salak2@localhost,cfp-0b220f52-f39f-45c7-9cb0-f9460c7922f5,propose,1.071,198,True,,classroom-availability
+2025-05-22T01:07:40.775316,LUZA CONTRERAS JUA,salaic3@localhost,cfp-9046e214-bc0c-43ef-9c53-e2961fce9179,propose,1.027,185,True,,classroom-availability
+2025-05-22T01:07:40.775316,LUZA CONTRERAS JUA,salalc6@localhost,cfp-4d64decd-f9ee-4f8a-9c3a-e5c4e07ab489,propose,1.016,177,True,,classroom-availability
+2025-05-22T01:07:40.775316,LUZA CONTRERAS JUA,salas210@localhost,cfp-d82ee0a4-6689-4690-8526-b31d2f1707b9,propose,1.030,162,True,,classroom-availability
+2025-05-22T01:07:40.775316,LUZA CONTRERAS JUA,salae6@localhost,cfp-d89a998a-e1a7-4386-9086-73b63671ce90,propose,1.046,184,True,,classroom-availability
+2025-05-22T01:07:40.775316,LUZA CONTRERAS JUA,salacm3@localhost,cfp-8ec289ad-f625-48ec-a1b4-3bc6f20cb07e,propose,1.059,164,True,,classroom-availability
+2025-05-22T01:07:40.775316,LUZA CONTRERAS JUA,salalamb@localhost,cfp-16abd450-a83b-4647-a582-e341345cd74d,propose,1.081,184,True,,classroom-availability
+2025-05-22T01:07:40.775316,LUZA CONTRERAS JUA,salak2@localhost,cfp-2677cb5b-2b28-46a8-813e-3b18b3fc14bc,propose,1.096,198,True,,classroom-availability
+2025-05-22T01:07:40.777707,LUZA CONTRERAS JUA,salaic3@localhost,cfp-e030ece2-38a1-459f-86ac-5d3c3022dd7e,propose,0.985,185,True,,classroom-availability
+2025-05-22T01:07:40.777707,LUZA CONTRERAS JUA,salalc6@localhost,cfp-245203d4-f503-4d75-9dcf-2abddbbce54d,propose,0.994,177,True,,classroom-availability
+2025-05-22T01:07:40.777707,LUZA CONTRERAS JUA,salas210@localhost,cfp-edf4f71e-ccbf-4dd3-9e3f-88501d3f219a,propose,0.994,162,True,,classroom-availability
+2025-05-22T01:07:40.777707,LUZA CONTRERAS JUA,salae6@localhost,cfp-e3026ab4-4604-4ddd-b28d-5406f832d92d,propose,1.008,184,True,,classroom-availability
+2025-05-22T01:07:40.777707,LUZA CONTRERAS JUA,salacm3@localhost,cfp-a0436699-3e08-4dba-bbbb-eccd1cdd521c,propose,1.020,164,True,,classroom-availability
+2025-05-22T01:07:40.777707,LUZA CONTRERAS JUA,salalamb@localhost,cfp-c720aff8-2646-4d60-9d89-90bad4534211,propose,1.044,184,True,,classroom-availability
+2025-05-22T01:07:40.777707,LUZA CONTRERAS JUA,salak2@localhost,cfp-9543beb3-99f7-4e47-bad3-adbc24c81472,propose,1.071,198,True,,classroom-availability
+2025-05-22T01:07:40.781710,LUZA CONTRERAS JUA,salaic3@localhost,cfp-524b7d76-99de-4242-b627-fe81c196eed3,propose,2.706,185,True,,classroom-availability
+2025-05-22T01:07:40.781710,LUZA CONTRERAS JUA,salalc6@localhost,cfp-ad369473-a140-4c8a-b246-d2b92120ee26,propose,2.714,177,True,,classroom-availability
+2025-05-22T01:07:40.782708,LUZA CONTRERAS JUA,salas210@localhost,cfp-8af25567-1dcf-4ce4-83e1-06aee1164748,propose,2.756,162,True,,classroom-availability
+2025-05-22T01:07:40.782708,LUZA CONTRERAS JUA,salae6@localhost,cfp-81a025d3-bf77-4223-aaa0-926dd5a2db17,propose,2.778,184,True,,classroom-availability
+2025-05-22T01:07:40.782708,LUZA CONTRERAS JUA,salacm3@localhost,cfp-b6dcdc6f-38b8-44de-8f5c-9979794e659d,propose,2.795,164,True,,classroom-availability
+2025-05-22T01:07:40.782708,LUZA CONTRERAS JUA,salalamb@localhost,cfp-57a29cc1-9181-49f8-b5f0-aa396c9001f3,propose,2.812,184,True,,classroom-availability
+2025-05-22T01:07:40.782708,LUZA CONTRERAS JUA,salak2@localhost,cfp-28982f9b-7ef7-4b0a-91fe-49b705610699,propose,2.830,198,True,,classroom-availability
+2025-05-22T01:07:40.786696,LUZA CONTRERAS JUA,salaic3@localhost,cfp-c4913e8a-b35a-4aa2-be21-ea1d2b775d8b,propose,1.841,185,True,,classroom-availability
+2025-05-22T01:07:40.786696,LUZA CONTRERAS JUA,salalc6@localhost,cfp-b9c182e2-7a3c-4308-ab2d-22bff7b07e6f,propose,1.891,177,True,,classroom-availability
+2025-05-22T01:07:40.786696,LUZA CONTRERAS JUA,salas210@localhost,cfp-4c49d56b-9010-4b95-b632-b3517d8934ab,propose,1.976,162,True,,classroom-availability
+2025-05-22T01:07:40.786696,LUZA CONTRERAS JUA,salae6@localhost,cfp-197dfb89-66eb-4725-ad56-e2b33e7cc468,propose,2.077,184,True,,classroom-availability
+2025-05-22T01:07:40.786696,LUZA CONTRERAS JUA,salacm3@localhost,cfp-92e8a23f-6397-46d8-a58e-1fd2121f0652,propose,2.146,164,True,,classroom-availability
+2025-05-22T01:07:40.787697,LUZA CONTRERAS JUA,salalamb@localhost,cfp-e0dfc3dd-6771-421a-911f-1707f400bedc,propose,2.209,184,True,,classroom-availability
+2025-05-22T01:07:40.787697,LUZA CONTRERAS JUA,salak2@localhost,cfp-defd726f-f8aa-447b-942d-579608c19276,propose,2.275,198,True,,classroom-availability
+2025-05-22T01:07:40.789703,LUZA CONTRERAS JUA,salaic3@localhost,cfp-ee27e1ed-80f2-477e-a2dc-0eb786dca84b,propose,1.183,185,True,,classroom-availability
+2025-05-22T01:07:40.789703,LUZA CONTRERAS JUA,salalc6@localhost,cfp-c2047446-6947-4550-ae39-314838a47c06,propose,1.163,177,True,,classroom-availability
+2025-05-22T01:07:40.789703,LUZA CONTRERAS JUA,salas210@localhost,cfp-bbc1b8ea-94d8-49b3-8f33-755cec01a763,propose,1.175,162,True,,classroom-availability
+2025-05-22T01:07:40.789703,LUZA CONTRERAS JUA,salae6@localhost,cfp-5874e0bb-1ab6-4f79-a7f4-3b14546464de,propose,1.191,184,True,,classroom-availability
+2025-05-22T01:07:40.789703,LUZA CONTRERAS JUA,salacm3@localhost,cfp-cfe61cc0-9c6a-4852-84b2-466185621181,propose,1.214,164,True,,classroom-availability
+2025-05-22T01:07:40.790702,LUZA CONTRERAS JUA,salalamb@localhost,cfp-a88fa445-08cc-4f7c-b850-42573e521526,propose,1.248,184,True,,classroom-availability
+2025-05-22T01:07:40.790702,LUZA CONTRERAS JUA,salak2@localhost,cfp-653bcb65-2bcc-487d-aece-a753523d6ece,propose,1.271,198,True,,classroom-availability
+2025-05-22T01:07:40.814281,VILCA ASTORGA BELF,salaim4@localhost,cfp-db90b1d2-7a02-4a25-a746-cd0170833827,propose,0.730,222,True,,classroom-availability
+2025-05-22T01:07:40.818351,VILCA ASTORGA BELF,salacm3@localhost,cfp-e5211767-366c-4f9c-bda9-67f2d2313cfc,propose,0.482,164,True,,classroom-availability
+2025-05-22T01:07:40.824351,VILCA ASTORGA BELF,salaic3@localhost,cfp-1bdb70bd-da12-46fb-809d-67bf434e03e8,propose,0.873,185,True,,classroom-availability
+2025-05-22T01:07:40.824351,VILCA ASTORGA BELF,salalc6@localhost,cfp-b1f3100a-f884-43ec-96f7-5e4be4f85ea7,propose,0.854,177,True,,classroom-availability
+2025-05-22T01:07:40.824351,VILCA ASTORGA BELF,salae6@localhost,cfp-44dcf84f-bee0-4617-995b-bd23ba7a7c17,propose,0.863,184,True,,classroom-availability
+2025-05-22T01:07:40.824351,VILCA ASTORGA BELF,salacm3@localhost,cfp-9e6734ab-6b3f-4bb8-bf43-2da66498a028,propose,0.872,126,True,,classroom-availability
+2025-05-22T01:07:40.824351,VILCA ASTORGA BELF,salalamb@localhost,cfp-18a9baa8-ce4f-4fcb-a1e5-0153727d0220,propose,0.892,184,True,,classroom-availability
+2025-05-22T01:07:40.848116,TAPIA QUEZADA JAIM,salaic3@localhost,cfp-6fe59c51-7ecf-46d4-b226-5f457536f55b,propose,1.035,150,True,,classroom-availability
+2025-05-22T01:07:40.848116,TAPIA QUEZADA JAIM,salalc6@localhost,cfp-745b4287-a879-4939-8fa8-5b4d5722d8d0,propose,1.040,177,True,,classroom-availability
+2025-05-22T01:07:40.848116,TAPIA QUEZADA JAIM,salas210@localhost,cfp-b83c48be-0060-48d8-b509-61c6578e31dd,propose,1.049,162,True,,classroom-availability
+2025-05-22T01:07:40.848116,TAPIA QUEZADA JAIM,salae6@localhost,cfp-119d6be1-ce9a-48e3-bf48-09ee1e8aea98,propose,1.063,184,True,,classroom-availability
+2025-05-22T01:07:40.848116,TAPIA QUEZADA JAIM,salacm3@localhost,cfp-63d2cd93-1f79-4165-9785-a659e55470f0,propose,1.074,126,True,,classroom-availability
+2025-05-22T01:07:40.848116,TAPIA QUEZADA JAIM,salalamb@localhost,cfp-32c46eb3-931a-4b24-9af4-10c5b0c817d9,propose,1.088,184,True,,classroom-availability
+2025-05-22T01:07:40.848116,TAPIA QUEZADA JAIM,salak2@localhost,cfp-db6d23cf-e227-404d-9e9c-cf2c31163a5d,propose,1.099,198,True,,classroom-availability
+2025-05-22T01:07:40.851116,TAPIA QUEZADA JAIM,salaic3@localhost,cfp-2796e516-480e-442a-84bc-1a64db304d7b,propose,0.904,150,True,,classroom-availability
+2025-05-22T01:07:40.851116,TAPIA QUEZADA JAIM,salalc6@localhost,cfp-7a99e551-4c4b-46a9-b0be-8715ae59ee6a,propose,0.909,177,True,,classroom-availability
+2025-05-22T01:07:40.851116,TAPIA QUEZADA JAIM,salas210@localhost,cfp-59de1cd2-75f1-48b6-81b1-0504b793213f,propose,0.924,162,True,,classroom-availability
+2025-05-22T01:07:40.851116,TAPIA QUEZADA JAIM,salae6@localhost,cfp-4d96bec4-271f-45e8-8462-d09dfd7c0045,propose,0.938,184,True,,classroom-availability
+2025-05-22T01:07:40.851116,TAPIA QUEZADA JAIM,salacm3@localhost,cfp-668eb6dc-09ea-44f4-831f-a5d700e6d82b,propose,0.950,126,True,,classroom-availability
+2025-05-22T01:07:40.851116,TAPIA QUEZADA JAIM,salalamb@localhost,cfp-0f8bef9b-342c-499a-984e-ca411a0cb269,propose,0.962,184,True,,classroom-availability
+2025-05-22T01:07:40.851116,TAPIA QUEZADA JAIM,salak2@localhost,cfp-c4164bc0-8438-425f-a7ce-10976c519a7d,propose,0.977,182,True,,classroom-availability
+2025-05-22T01:07:40.872623,DIAZ MIRANDA MARCO,salacm3@localhost,cfp-3de4d37c-a2ba-4549-84dc-400e1c197960,propose,0.634,126,True,,classroom-availability
+2025-05-22T01:07:40.893604,CORTES CAMPOS EMEL,salaic3@localhost,cfp-523274d0-da78-495f-ae73-1172ba05ea16,propose,1.041,150,True,,classroom-availability
+2025-05-22T01:07:40.893604,CORTES CAMPOS EMEL,salalc6@localhost,cfp-4c5b2e87-1ad4-4062-86b5-8243e21e1025,propose,1.050,177,True,,classroom-availability
+2025-05-22T01:07:40.893604,CORTES CAMPOS EMEL,salas210@localhost,cfp-9248714a-cdaa-47f5-abef-56216fa3e930,propose,1.119,162,True,,classroom-availability
+2025-05-22T01:07:40.893604,CORTES CAMPOS EMEL,salae6@localhost,cfp-b4c230a0-66c2-4521-98c7-dfeed9000317,propose,1.139,184,True,,classroom-availability
+2025-05-22T01:07:40.893604,CORTES CAMPOS EMEL,salacm3@localhost,cfp-486d155f-83a8-4bd2-9ae6-15dc14f3915b,propose,1.154,103,True,,classroom-availability
+2025-05-22T01:07:40.893604,CORTES CAMPOS EMEL,salalamb@localhost,cfp-4517fcc8-b9ce-4b8d-a38a-5753300cec27,propose,1.284,184,True,,classroom-availability
+2025-05-22T01:07:40.893604,CORTES CAMPOS EMEL,salak2@localhost,cfp-b04ca794-3a21-4888-ba59-42e14395c188,propose,1.324,178,True,,classroom-availability
+2025-05-22T01:07:40.915079,MEZA C¡RDENAS ERIK,salacm3@localhost,cfp-7d150bcc-41dc-4cf5-9e57-1a37047a4019,propose,0.799,103,True,,classroom-availability
+2025-05-22T01:07:40.918118,MEZA C¡RDENAS ERIK,salaic3@localhost,cfp-ac189963-f486-416b-81ae-fb91a9257da4,propose,1.252,150,True,,classroom-availability
+2025-05-22T01:07:40.918118,MEZA C¡RDENAS ERIK,salalc6@localhost,cfp-80aa389a-6c83-43c2-8740-09cfd89a1682,propose,1.247,177,True,,classroom-availability
+2025-05-22T01:07:40.918118,MEZA C¡RDENAS ERIK,salas210@localhost,cfp-613afba0-6144-4090-9b43-a1b7e5b275ac,propose,1.259,162,True,,classroom-availability
+2025-05-22T01:07:40.918118,MEZA C¡RDENAS ERIK,salae6@localhost,cfp-162e6709-8bac-435e-adc9-3aeb36f39adc,propose,1.270,184,True,,classroom-availability
+2025-05-22T01:07:40.919118,MEZA C¡RDENAS ERIK,salacm3@localhost,cfp-28980a52-80eb-4dd5-a43b-c7a4fd345da0,propose,1.277,97,True,,classroom-availability
+2025-05-22T01:07:40.919118,MEZA C¡RDENAS ERIK,salalamb@localhost,cfp-4c3de65a-e3f6-4967-93ef-5cbbe8292ede,propose,1.284,167,True,,classroom-availability
+2025-05-22T01:07:40.919118,MEZA C¡RDENAS ERIK,salak2@localhost,cfp-833dbe7e-fa64-43f4-9e18-c5e27d1a3447,propose,1.294,178,True,,classroom-availability
+2025-05-22T01:07:40.923117,MEZA C¡RDENAS ERIK,salaic3@localhost,cfp-91369fbd-c897-4a95-be64-8ecf6f877f12,propose,1.087,150,True,,classroom-availability
+2025-05-22T01:07:40.923117,MEZA C¡RDENAS ERIK,salalc6@localhost,cfp-00c9f86b-1e39-423d-b574-cdfc951089e1,propose,1.070,177,True,,classroom-availability
+2025-05-22T01:07:40.923117,MEZA C¡RDENAS ERIK,salas210@localhost,cfp-3e884e2c-432a-4597-a445-991cd3906e14,propose,1.075,162,True,,classroom-availability
+2025-05-22T01:07:40.923117,MEZA C¡RDENAS ERIK,salae6@localhost,cfp-c37910b7-d9da-4713-b898-f0d19a071b20,propose,1.083,184,True,,classroom-availability
+2025-05-22T01:07:40.923117,MEZA C¡RDENAS ERIK,salacm3@localhost,cfp-b5033e56-e8a3-4635-97e7-2d2df108fcb5,propose,1.089,97,True,,classroom-availability
+2025-05-22T01:07:40.923117,MEZA C¡RDENAS ERIK,salalamb@localhost,cfp-ade6f2f3-e45f-4834-b1cf-ba50d5245ea6,propose,1.108,167,True,,classroom-availability
+2025-05-22T01:07:40.923117,MEZA C¡RDENAS ERIK,salak2@localhost,cfp-2330c331-2469-4db7-8a82-9dfbd7b60c35,propose,1.118,161,True,,classroom-availability
+2025-05-22T01:07:40.926265,MEZA C¡RDENAS ERIK,salaic3@localhost,cfp-b210a1b5-8927-4ce0-9183-379760cd9ae7,propose,1.053,150,True,,classroom-availability
+2025-05-22T01:07:40.926265,MEZA C¡RDENAS ERIK,salalc6@localhost,cfp-62de3ffa-947b-4409-b33f-13323e0e0b80,propose,1.043,161,True,,classroom-availability
+2025-05-22T01:07:40.926265,MEZA C¡RDENAS ERIK,salas210@localhost,cfp-039a857e-ab6f-44a2-987d-ae5ac7ae8bef,propose,1.053,162,True,,classroom-availability
+2025-05-22T01:07:40.926265,MEZA C¡RDENAS ERIK,salae6@localhost,cfp-0e71aa56-730d-435e-b904-5e0b2712b331,propose,1.064,184,True,,classroom-availability
+2025-05-22T01:07:40.926265,MEZA C¡RDENAS ERIK,salacm3@localhost,cfp-74ddb698-3ef9-45a8-9099-9cbb378f55c8,propose,1.073,97,True,,classroom-availability
+2025-05-22T01:07:40.927266,MEZA C¡RDENAS ERIK,salalamb@localhost,cfp-e42d2adf-0270-4865-aeb3-ba29390e405d,propose,1.097,167,True,,classroom-availability
+2025-05-22T01:07:40.927266,MEZA C¡RDENAS ERIK,salak2@localhost,cfp-56ed0a94-577e-4b33-ba5f-228623dbc9f6,propose,1.112,161,True,,classroom-availability
+2025-05-22T01:07:40.930271,MEZA C¡RDENAS ERIK,salaic3@localhost,cfp-deed0acf-4623-474d-a0c2-5eb1e25379bb,propose,1.139,150,True,,classroom-availability
+2025-05-22T01:07:40.930271,MEZA C¡RDENAS ERIK,salalc6@localhost,cfp-26774740-2d85-455a-a1a9-16a4fe2199c2,propose,1.264,161,True,,classroom-availability
+2025-05-22T01:07:40.930271,MEZA C¡RDENAS ERIK,salas210@localhost,cfp-60813008-8156-49be-bd0f-41c6283eff76,propose,1.288,162,True,,classroom-availability
+2025-05-22T01:07:40.930271,MEZA C¡RDENAS ERIK,salae6@localhost,cfp-c7309dff-db67-46e3-be3d-752725e6573e,propose,1.300,184,True,,classroom-availability
+2025-05-22T01:07:40.930271,MEZA C¡RDENAS ERIK,salacm3@localhost,cfp-82af89c0-033c-4b6a-88b5-c14e29e5f8d6,propose,1.309,97,True,,classroom-availability
+2025-05-22T01:07:40.930271,MEZA C¡RDENAS ERIK,salalamb@localhost,cfp-d5cddbbb-b5af-4dbc-90ee-f71d91636cc7,propose,1.320,167,True,,classroom-availability
+2025-05-22T01:07:40.930271,MEZA C¡RDENAS ERIK,salak2@localhost,cfp-f7951fcd-06d8-47df-b843-951a010bfb43,propose,1.333,153,True,,classroom-availability
+2025-05-22T01:07:40.956010,LAM MORAGA JAIME A,salae6@localhost,cfp-c872b4cb-dd98-41bb-9b03-e276dd80daff,propose,0.734,184,True,,classroom-availability
+2025-05-22T01:07:40.956010,LAM MORAGA JAIME A,salacm3@localhost,cfp-8fc7c00e-941a-4d4c-965a-c182108c0601,propose,0.719,97,True,,classroom-availability
+2025-05-22T01:07:40.958009,LAM MORAGA JAIME A,salae6@localhost,cfp-1d33ddff-d62c-47c1-b9cb-14412d090bfe,propose,0.556,182,True,,classroom-availability
+2025-05-22T01:07:40.958009,LAM MORAGA JAIME A,salacm3@localhost,cfp-7be0d350-dbf5-452d-9d92-21ba8af9d5fb,propose,0.546,97,True,,classroom-availability
+2025-05-22T01:07:40.961010,LAM MORAGA JAIME A,salaim4@localhost,cfp-8ec33cba-1d17-49fb-a299-f26039b1d92f,propose,0.619,188,True,,classroom-availability
+2025-05-22T01:07:40.963055,LAM MORAGA JAIME A,salaic3@localhost,cfp-91df762c-08dc-4570-8f73-9ba06eb4a319,propose,0.769,150,True,,classroom-availability
+2025-05-22T01:07:40.963055,LAM MORAGA JAIME A,salalc6@localhost,cfp-751876cc-e089-41b3-8dba-d6d16f31774f,propose,0.767,161,True,,classroom-availability
+2025-05-22T01:07:40.963055,LAM MORAGA JAIME A,salae6@localhost,cfp-9871e2dd-7622-4ba0-9713-986d9d7d04a4,propose,0.775,166,True,,classroom-availability
+2025-05-22T01:07:40.963055,LAM MORAGA JAIME A,salacm3@localhost,cfp-8ab9150a-8add-4281-89bd-5bc8de798648,propose,0.783,97,True,,classroom-availability
+2025-05-22T01:07:40.963055,LAM MORAGA JAIME A,salalamb@localhost,cfp-e86c382b-7999-44a9-96cb-0d9e48015dac,propose,0.793,132,True,,classroom-availability
+2025-05-22T01:07:40.965561,LAM MORAGA JAIME A,salaic3@localhost,cfp-278c9606-71f2-4f99-ac7d-610ccf6bf92d,propose,0.931,150,True,,classroom-availability
+2025-05-22T01:07:40.966562,LAM MORAGA JAIME A,salalc6@localhost,cfp-326a181b-1e63-4c25-8c08-544e247ff274,propose,0.935,155,True,,classroom-availability
+2025-05-22T01:07:40.966562,LAM MORAGA JAIME A,salas210@localhost,cfp-24525071-b1d2-47e5-b238-2acf9f266aab,propose,0.944,162,True,,classroom-availability
+2025-05-22T01:07:40.966562,LAM MORAGA JAIME A,salae6@localhost,cfp-30a65420-8735-427c-b4c6-6edb9d125e3c,propose,0.952,166,True,,classroom-availability
+2025-05-22T01:07:40.966562,LAM MORAGA JAIME A,salacm3@localhost,cfp-ee977e5a-b60e-4fda-9b77-0595a4dfff62,propose,0.961,97,True,,classroom-availability
+2025-05-22T01:07:40.966562,LAM MORAGA JAIME A,salalamb@localhost,cfp-f785f318-65df-472c-a96b-e81344833839,propose,0.969,132,True,,classroom-availability
+2025-05-22T01:07:40.966562,LAM MORAGA JAIME A,salak2@localhost,cfp-e966e4cb-d916-4659-83e7-eacc2c9d9356,propose,0.977,153,True,,classroom-availability
+2025-05-22T01:07:40.969579,LAM MORAGA JAIME A,salaic3@localhost,cfp-611881e1-25f4-46e3-8c26-ff0dc9b271fb,propose,0.957,150,True,,classroom-availability
+2025-05-22T01:07:40.969579,LAM MORAGA JAIME A,salalc6@localhost,cfp-a02fa1fe-556d-4ba3-bd30-ad43e36464de,propose,0.956,155,True,,classroom-availability
+2025-05-22T01:07:40.969579,LAM MORAGA JAIME A,salas210@localhost,cfp-f75035a6-620c-4379-893c-bf197570a966,propose,0.965,162,True,,classroom-availability
+2025-05-22T01:07:40.969579,LAM MORAGA JAIME A,salae6@localhost,cfp-f8b0cab3-9861-4ac1-8c10-7030ca10d1a7,propose,0.972,166,True,,classroom-availability
+2025-05-22T01:07:40.969579,LAM MORAGA JAIME A,salacm3@localhost,cfp-15410e6f-dfb1-464b-a19b-334d0cc6d018,propose,0.979,97,True,,classroom-availability
+2025-05-22T01:07:40.969579,LAM MORAGA JAIME A,salalamb@localhost,cfp-68832ea4-f6d1-41b7-9fd1-fdf3f8955de5,propose,0.986,132,True,,classroom-availability
+2025-05-22T01:07:40.969579,LAM MORAGA JAIME A,salak2@localhost,cfp-aee846eb-d700-4cf5-84b6-519cdb63dba9,propose,0.996,133,True,,classroom-availability
+2025-05-22T01:07:40.977070,LAM MORAGA JAIME A,salaic3@localhost,cfp-6541adc6-705a-4e56-a164-e99162b6ddda,propose,0.980,115,True,,classroom-availability
+2025-05-22T01:07:40.977070,LAM MORAGA JAIME A,salalc6@localhost,cfp-001a4b12-8daa-4abd-9196-5f60f2843b01,propose,0.962,155,True,,classroom-availability
+2025-05-22T01:07:40.977070,LAM MORAGA JAIME A,salas210@localhost,cfp-fcca40b9-1f93-4c50-b569-b15736c258b3,propose,0.969,162,True,,classroom-availability
+2025-05-22T01:07:40.977070,LAM MORAGA JAIME A,salae6@localhost,cfp-22d84980-f121-4044-8929-4335b6428474,propose,0.978,166,True,,classroom-availability
+2025-05-22T01:07:40.977070,LAM MORAGA JAIME A,salacm3@localhost,cfp-c80af21f-ca01-44b3-a4b6-5ea72beaddcf,propose,0.984,97,True,,classroom-availability
+2025-05-22T01:07:40.977070,LAM MORAGA JAIME A,salalamb@localhost,cfp-f37671be-db26-4727-bf4c-ebf7475c3005,propose,0.990,132,True,,classroom-availability
+2025-05-22T01:07:40.977070,LAM MORAGA JAIME A,salak2@localhost,cfp-2f3970c8-0288-49d2-b5c7-755c3bc0e95c,propose,1.000,133,True,,classroom-availability
+2025-05-22T01:07:40.981070,LAM MORAGA JAIME A,salaic3@localhost,cfp-2f8ddd79-b1a2-4a71-acdd-87f8a80cb787,propose,0.982,115,True,,classroom-availability
+2025-05-22T01:07:40.981070,LAM MORAGA JAIME A,salalc6@localhost,cfp-8f772a1e-d8b2-4479-9bb0-b601ef4d7ba5,propose,0.966,139,True,,classroom-availability
+2025-05-22T01:07:40.981070,LAM MORAGA JAIME A,salas210@localhost,cfp-84d25840-ed15-4486-9c75-c101f572b006,propose,0.973,162,True,,classroom-availability
+2025-05-22T01:07:40.981070,LAM MORAGA JAIME A,salae6@localhost,cfp-63edc0be-ce1f-4c09-a308-e927705076ab,propose,0.981,166,True,,classroom-availability
+2025-05-22T01:07:40.981070,LAM MORAGA JAIME A,salacm3@localhost,cfp-63f532a7-7c20-44dc-95d2-9d486e4fc3e8,propose,0.989,97,True,,classroom-availability
+2025-05-22T01:07:40.981070,LAM MORAGA JAIME A,salalamb@localhost,cfp-cab7cf0d-469d-4531-a828-afad61f77c46,propose,0.998,132,True,,classroom-availability
+2025-05-22T01:07:40.981070,LAM MORAGA JAIME A,salak2@localhost,cfp-1e8c4dcb-9233-4334-8bcf-1458eea5b1e5,propose,1.006,133,True,,classroom-availability
+2025-05-22T01:07:41.003116,WONG BARREDA EDUAR,salaic3@localhost,cfp-86058a45-d94f-4168-aa67-bdf4382e1a60,propose,1.110,115,True,,classroom-availability
+2025-05-22T01:07:41.003116,WONG BARREDA EDUAR,salalc6@localhost,cfp-cae3b784-5d75-4e3a-a72e-228562490544,propose,1.104,139,True,,classroom-availability
+2025-05-22T01:07:41.003116,WONG BARREDA EDUAR,salas210@localhost,cfp-e0f75363-c8cd-420d-9378-9a2777982dd4,propose,1.111,154,True,,classroom-availability
+2025-05-22T01:07:41.003116,WONG BARREDA EDUAR,salae6@localhost,cfp-a330827f-0283-47b6-91c7-18f75fb7edfb,propose,1.121,166,True,,classroom-availability
+2025-05-22T01:07:41.003116,WONG BARREDA EDUAR,salacm3@localhost,cfp-c1b64ecd-866e-4edd-9a54-27c57148a789,propose,1.128,97,True,,classroom-availability
+2025-05-22T01:07:41.003116,WONG BARREDA EDUAR,salalamb@localhost,cfp-e1272b7b-7b6d-4bbf-bd78-dc57f42dcb5b,propose,1.137,132,True,,classroom-availability
+2025-05-22T01:07:41.006210,WONG BARREDA EDUAR,salaic3@localhost,cfp-763e3f9c-4ec3-4d36-81df-4b6beb7e22ad,propose,0.919,115,True,,classroom-availability
+2025-05-22T01:07:41.006210,WONG BARREDA EDUAR,salalc6@localhost,cfp-4f96ef4f-ccd2-48c0-9552-6e06c9f722ff,propose,0.914,139,True,,classroom-availability
+2025-05-22T01:07:41.006210,WONG BARREDA EDUAR,salas210@localhost,cfp-b2ad5a4c-93f9-4c87-9322-4359c382ee1f,propose,0.925,140,True,,classroom-availability
+2025-05-22T01:07:41.006210,WONG BARREDA EDUAR,salae6@localhost,cfp-77d48737-d1ea-402c-9244-412b0aacfe8a,propose,0.938,166,True,,classroom-availability
+2025-05-22T01:07:41.006210,WONG BARREDA EDUAR,salacm3@localhost,cfp-06b6e7c9-fb64-4c29-a0a4-8b883cd5b29f,propose,0.951,97,True,,classroom-availability
+2025-05-22T01:07:41.006210,WONG BARREDA EDUAR,salalamb@localhost,cfp-9eee1035-8a21-4e43-bc89-dfc54a0999d6,propose,0.964,132,True,,classroom-availability
+2025-05-22T01:07:41.009210,WONG BARREDA EDUAR,salaic3@localhost,cfp-108584ca-4f35-4a76-9384-276afe5b722e,propose,1.096,115,True,,classroom-availability
+2025-05-22T01:07:41.009210,WONG BARREDA EDUAR,salalc6@localhost,cfp-334fa622-e932-4e71-a03a-ac64f748ceb5,propose,1.099,139,True,,classroom-availability
+2025-05-22T01:07:41.009210,WONG BARREDA EDUAR,salas210@localhost,cfp-8578b007-0549-4fd9-a6ff-614211bcbf57,propose,1.108,140,True,,classroom-availability
+2025-05-22T01:07:41.009210,WONG BARREDA EDUAR,salae6@localhost,cfp-381315d3-2ff9-4864-8287-57018ab2f605,propose,1.123,166,True,,classroom-availability
+2025-05-22T01:07:41.009210,WONG BARREDA EDUAR,salacm3@localhost,cfp-464572bd-e178-410c-944c-64a6a2e41e5d,propose,1.138,97,True,,classroom-availability
+2025-05-22T01:07:41.009210,WONG BARREDA EDUAR,salalamb@localhost,cfp-69cb8016-e8ce-4fb8-ab86-9c355e78665b,propose,1.150,128,True,,classroom-availability
+2025-05-22T01:07:41.009210,WONG BARREDA EDUAR,salak2@localhost,cfp-76bd6183-1d06-48f9-affa-928659418010,propose,1.165,133,True,,classroom-availability
+2025-05-22T01:07:41.012210,WONG BARREDA EDUAR,salaic3@localhost,cfp-7634b5bb-8bd0-4652-8488-3bccbbfcfaf7,propose,1.031,115,True,,classroom-availability
+2025-05-22T01:07:41.012210,WONG BARREDA EDUAR,salalc6@localhost,cfp-ee03c0bd-ee29-41e3-b918-215f7dacb7de,propose,1.029,139,True,,classroom-availability
+2025-05-22T01:07:41.012210,WONG BARREDA EDUAR,salas210@localhost,cfp-d52aa46c-e814-4cdd-8542-b2f1f6960650,propose,1.038,140,True,,classroom-availability
+2025-05-22T01:07:41.012210,WONG BARREDA EDUAR,salae6@localhost,cfp-d95af8d4-d775-47b7-8fde-07b300731a40,propose,1.051,166,True,,classroom-availability
+2025-05-22T01:07:41.012210,WONG BARREDA EDUAR,salacm3@localhost,cfp-5843aacb-2c66-4d10-bfbb-94f5f27d7c57,propose,1.056,97,True,,classroom-availability
+2025-05-22T01:07:41.012210,WONG BARREDA EDUAR,salalamb@localhost,cfp-46e8cbbe-c79c-4386-9678-231c325f1cec,propose,1.073,128,True,,classroom-availability
+2025-05-22T01:07:41.012210,WONG BARREDA EDUAR,salak2@localhost,cfp-2a444c7f-d3bc-4e39-9653-3f4eb274f41f,propose,1.098,129,True,,classroom-availability
+2025-05-22T01:07:41.015210,WONG BARREDA EDUAR,salaic3@localhost,cfp-5554a7a9-6872-4c0a-bbe7-b8ecbf364144,propose,1.055,115,True,,classroom-availability
+2025-05-22T01:07:41.015210,WONG BARREDA EDUAR,salalc6@localhost,cfp-ba5d10b0-9afe-4e62-a569-bc28d7c892d6,propose,1.052,139,True,,classroom-availability
+2025-05-22T01:07:41.015210,WONG BARREDA EDUAR,salas210@localhost,cfp-72387793-8cee-4a65-825a-15d079a1711c,propose,1.071,140,True,,classroom-availability
+2025-05-22T01:07:41.015210,WONG BARREDA EDUAR,salae6@localhost,cfp-08b9f4d1-edc8-43d1-9fcf-f049fbe8bb72,propose,1.083,166,True,,classroom-availability
+2025-05-22T01:07:41.016224,WONG BARREDA EDUAR,salacm3@localhost,cfp-b3a78247-cf1b-4e13-a389-d05b0c4c8f5c,propose,1.091,97,True,,classroom-availability
+2025-05-22T01:07:41.016224,WONG BARREDA EDUAR,salalamb@localhost,cfp-b32e0c31-6ea9-4ad8-a73d-c8ce135be79f,propose,1.098,124,True,,classroom-availability
+2025-05-22T01:07:41.016224,WONG BARREDA EDUAR,salak2@localhost,cfp-7444f852-f8bf-43c4-b9a3-96e1053ce578,propose,1.109,129,True,,classroom-availability
+2025-05-22T01:07:41.018225,WONG BARREDA EDUAR,salaic3@localhost,cfp-23f4ad24-85bf-4e4a-9893-319812b4bc8a,propose,0.927,115,True,,classroom-availability
+2025-05-22T01:07:41.018225,WONG BARREDA EDUAR,salalc6@localhost,cfp-d705b896-0d33-4c00-81fe-2851a553058e,propose,0.924,139,True,,classroom-availability
+2025-05-22T01:07:41.019226,WONG BARREDA EDUAR,salas210@localhost,cfp-19b2adb1-2b68-490b-917a-a64398b7cf2a,propose,0.942,140,True,,classroom-availability
+2025-05-22T01:07:41.019226,WONG BARREDA EDUAR,salae6@localhost,cfp-28ee27f0-dc34-439f-aac2-e281e1a745a6,propose,0.956,166,True,,classroom-availability
+2025-05-22T01:07:41.019226,WONG BARREDA EDUAR,salacm3@localhost,cfp-dafb2b29-3a31-4d53-a012-b8f2e60f4c13,propose,0.965,97,True,,classroom-availability
+2025-05-22T01:07:41.019226,WONG BARREDA EDUAR,salalamb@localhost,cfp-79c6aaec-e7ac-4f3c-beaf-348d747d9a60,propose,0.976,124,True,,classroom-availability
+2025-05-22T01:07:41.019226,WONG BARREDA EDUAR,salak2@localhost,cfp-a6846289-ae2b-4b44-996d-30aa4140e1bb,propose,0.986,125,True,,classroom-availability
+2025-05-22T01:07:41.022227,WONG BARREDA EDUAR,salaic3@localhost,cfp-a38698d5-661c-4d2e-aafe-9504e4c69198,propose,1.229,115,True,,classroom-availability
+2025-05-22T01:07:41.022227,WONG BARREDA EDUAR,salalc6@localhost,cfp-0c0b7087-3c90-466a-9731-1b03aa850f3c,propose,1.230,139,True,,classroom-availability
+2025-05-22T01:07:41.022227,WONG BARREDA EDUAR,salas210@localhost,cfp-f042636a-e9ae-4553-bd28-87b2f03b6ca4,propose,1.232,140,True,,classroom-availability
+2025-05-22T01:07:41.022227,WONG BARREDA EDUAR,salas316@localhost,cfp-15906eea-1dfc-4065-bfb0-e8bbf71ee61c,propose,1.162,224,True,,classroom-availability
+2025-05-22T01:07:41.022227,WONG BARREDA EDUAR,salae6@localhost,cfp-16b8cef9-14a2-49b3-a1b1-fc55258ee834,propose,1.179,166,True,,classroom-availability
+2025-05-22T01:07:41.022227,WONG BARREDA EDUAR,salacm3@localhost,cfp-e0ef5339-c3e9-4257-9b7d-6a29f61b9511,propose,1.186,97,True,,classroom-availability
+2025-05-22T01:07:41.022227,WONG BARREDA EDUAR,salalamb@localhost,cfp-79172475-abc6-48a9-ac36-11ab6a0f2ab5,propose,1.196,124,True,,classroom-availability
+2025-05-22T01:07:41.022227,WONG BARREDA EDUAR,salak2@localhost,cfp-99d04363-9a3d-46bc-a57e-3d8a9924a82a,propose,1.206,121,True,,classroom-availability
+2025-05-22T01:07:41.025353,WONG BARREDA EDUAR,salaic3@localhost,cfp-89910694-b1e3-4a1d-8df7-cfe6df1a811a,propose,0.988,115,True,,classroom-availability
+2025-05-22T01:07:41.025353,WONG BARREDA EDUAR,salalc6@localhost,cfp-5f35391e-b08e-466f-92de-8fac54e9e4de,propose,0.981,139,True,,classroom-availability
+2025-05-22T01:07:41.025353,WONG BARREDA EDUAR,salas210@localhost,cfp-61aee430-501d-48f7-a701-f97ea2de062b,propose,0.989,140,True,,classroom-availability
+2025-05-22T01:07:41.025353,WONG BARREDA EDUAR,salas316@localhost,cfp-e9f12931-b1ea-455d-8b9d-5b9c34a29231,propose,0.999,220,True,,classroom-availability
+2025-05-22T01:07:41.025353,WONG BARREDA EDUAR,salae6@localhost,cfp-e121edf5-4dbf-4862-a32c-4418119b4b31,propose,1.009,166,True,,classroom-availability
+2025-05-22T01:07:41.025353,WONG BARREDA EDUAR,salacm3@localhost,cfp-db416c95-65f5-4ee7-8c1f-885ba2f6bfec,propose,1.034,97,True,,classroom-availability
+2025-05-22T01:07:41.025886,WONG BARREDA EDUAR,salalamb@localhost,cfp-583a7b01-f240-46d4-b413-71dd94a87453,propose,1.046,124,True,,classroom-availability
+2025-05-22T01:07:41.025886,WONG BARREDA EDUAR,salak2@localhost,cfp-1e15bb80-eb1c-4f9c-971b-55c6f9ea01ee,propose,1.056,121,True,,classroom-availability
+2025-05-22T01:07:41.046784,ROJAS GONZALEZ MAR,salacm3@localhost,cfp-84e12490-b474-42f7-a5f2-e7ffb69bfaca,propose,0.627,97,True,,classroom-availability
+2025-05-22T01:07:41.049055,ROJAS GONZALEZ MAR,salacm3@localhost,cfp-043d4d3e-cdae-4120-b898-863b9ee2a27c,refuse,0.357,19,True,,classroom-availability
+2025-05-22T01:07:41.049569,ROJAS GONZALEZ MAR,salacm3@localhost,cfp-146025a6-4e26-4291-96f4-e08c754e6b9d,refuse,0.361,19,True,,classroom-availability
+2025-05-22T01:07:41.050081,ROJAS GONZALEZ MAR,salacm3@localhost,cfp-9b1e8088-dd7f-48d1-b79a-fee383d0afdc,refuse,0.315,19,True,,classroom-availability
+2025-05-22T01:07:41.051085,ROJAS GONZALEZ MAR,salacm3@localhost,cfp-d91db3ba-6419-46cb-b614-6d319f1eaeae,refuse,0.529,19,True,,classroom-availability
+2025-05-22T01:07:41.052085,ROJAS GONZALEZ MAR,salacm3@localhost,cfp-58c443cd-7684-41d8-b456-231824fd8c2a,refuse,0.677,19,True,,classroom-availability
+2025-05-22T01:07:41.053212,ROJAS GONZALEZ MAR,salacm3@localhost,cfp-5746d07e-fcb4-487a-a738-63304a0a36d9,refuse,0.366,19,True,,classroom-availability
+2025-05-22T01:07:41.071312,L”PEZ SEGUEL JULIO,salaant21@localhost,cfp-af5c5f17-8b1d-48a8-b4fa-0d8c6e343de2,propose,1.623,225,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salaic3@localhost,cfp-9c4cb7c7-9728-444e-8293-a7432cf30d08,propose,1.611,115,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salalc6@localhost,cfp-efc9395d-5020-4266-83fe-400a3e39b86d,propose,1.616,139,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salalrsm@localhost,cfp-eb395239-f5a0-468f-9006-f6d5a17bfde7,propose,1.586,224,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salalcom@localhost,cfp-9ff5e202-2187-48b8-9b56-bc404b68de84,propose,1.556,224,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salas210@localhost,cfp-b9c0ad72-819c-4915-b1c3-1ff04a6cc4d9,propose,1.559,140,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salas316@localhost,cfp-98e4e6cf-9c97-4a58-a3fe-02abaac8bb3a,propose,1.566,216,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salae6@localhost,cfp-cb705e33-ae98-4713-8d77-75c8a3fe7f7f,propose,1.572,166,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salacm3@localhost,cfp-bce079e3-bff3-4673-b138-bb8c167668dc,refuse,1.573,19,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salatbd@localhost,cfp-22c17dee-58a9-4947-aaa9-71fb8d3be903,propose,1.628,223,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salalamb@localhost,cfp-8cb63464-8ed5-4a41-9d6f-54b882beb6ef,propose,1.638,124,True,,classroom-availability
+2025-05-22T01:07:41.072329,L”PEZ SEGUEL JULIO,salak2@localhost,cfp-6f438571-88a0-42ee-b913-846974a842f7,propose,1.654,121,True,,classroom-availability
+2025-05-22T01:07:41.076337,L”PEZ SEGUEL JULIO,salaant21@localhost,cfp-6413d94e-2af2-44b0-aeec-29e7dba8b0e1,propose,1.555,225,True,,classroom-availability
+2025-05-22T01:07:41.076337,L”PEZ SEGUEL JULIO,salaic3@localhost,cfp-090a3e64-aefb-41ce-bbc5-1c1d8c9984f6,propose,1.548,115,True,,classroom-availability
+2025-05-22T01:07:41.076337,L”PEZ SEGUEL JULIO,salalc6@localhost,cfp-c67c7473-247a-4555-b3ea-69ce145bb86c,propose,1.555,139,True,,classroom-availability
+2025-05-22T01:07:41.076337,L”PEZ SEGUEL JULIO,salalrsm@localhost,cfp-0f3a4130-995a-4680-b8c3-2af87b5485d1,propose,1.553,224,True,,classroom-availability
+2025-05-22T01:07:41.076337,L”PEZ SEGUEL JULIO,salas210@localhost,cfp-feb9c6e4-e674-4c7c-882e-a4dec197c049,propose,1.559,140,True,,classroom-availability
+2025-05-22T01:07:41.076337,L”PEZ SEGUEL JULIO,salas316@localhost,cfp-aa933231-5156-4028-a2fe-145809ac5a07,propose,1.570,216,True,,classroom-availability
+2025-05-22T01:07:41.076337,L”PEZ SEGUEL JULIO,salae6@localhost,cfp-ac1756a9-de83-4697-a70b-4ebb4756e34e,propose,1.578,166,True,,classroom-availability
+2025-05-22T01:07:41.076337,L”PEZ SEGUEL JULIO,salacm3@localhost,cfp-46a76ffb-cb9b-4f65-a559-f936025a6c11,refuse,1.581,19,True,,classroom-availability
+2025-05-22T01:07:41.076337,L”PEZ SEGUEL JULIO,salalamb@localhost,cfp-f08e036d-0241-4a1e-9709-94119a1aa0ad,propose,1.585,124,True,,classroom-availability
+2025-05-22T01:07:41.076337,L”PEZ SEGUEL JULIO,salak2@localhost,cfp-8603ab15-5ab4-47c9-8ea4-16e585238aad,propose,1.591,121,True,,classroom-availability
+2025-05-22T01:07:41.099210,URIBE PALACIOS MAR,salaic3@localhost,cfp-cdc768d6-beeb-4090-9612-7a1b35182517,propose,1.729,115,True,,classroom-availability
+2025-05-22T01:07:41.099210,URIBE PALACIOS MAR,salalc6@localhost,cfp-5e2ff50e-111c-4357-9a09-001ab312fe83,propose,1.730,139,True,,classroom-availability
+2025-05-22T01:07:41.099210,URIBE PALACIOS MAR,salas210@localhost,cfp-dae55902-7e54-4602-a588-cd27d4ebbaea,propose,1.740,140,True,,classroom-availability
+2025-05-22T01:07:41.100427,URIBE PALACIOS MAR,salas316@localhost,cfp-7c668c41-644c-478f-8a1a-8cc8af4f07f3,propose,1.754,216,True,,classroom-availability
+2025-05-22T01:07:41.100427,URIBE PALACIOS MAR,salae6@localhost,cfp-ec4857cf-dab5-4602-bb68-4dd973c3e530,propose,1.764,166,True,,classroom-availability
+2025-05-22T01:07:41.100427,URIBE PALACIOS MAR,salacm3@localhost,cfp-92de5824-4cb2-4f04-883f-7be0bece0e78,refuse,1.776,19,True,,classroom-availability
+2025-05-22T01:07:41.100427,URIBE PALACIOS MAR,salalamb@localhost,cfp-aa613e10-8926-42cb-ae06-fbfbb4d9fb52,propose,1.788,124,True,,classroom-availability
+2025-05-22T01:07:41.100427,URIBE PALACIOS MAR,salak2@localhost,cfp-b2186997-fc7b-42e4-a4d8-5936fce6daa6,propose,1.811,121,True,,classroom-availability
+2025-05-22T01:07:41.122976,SALAZAR PEREZ INGR,salaic3@localhost,cfp-ca9fccb7-2def-4cd7-9fcd-ba5f59677333,propose,1.169,115,True,,classroom-availability
+2025-05-22T01:07:41.122976,SALAZAR PEREZ INGR,salalc6@localhost,cfp-f92f43ca-2845-4ab0-a89d-078e614ca7a8,propose,1.157,139,True,,classroom-availability
+2025-05-22T01:07:41.122976,SALAZAR PEREZ INGR,salas210@localhost,cfp-1398f391-e9c9-468e-8722-23260e4f91be,propose,1.162,140,True,,classroom-availability
+2025-05-22T01:07:41.122976,SALAZAR PEREZ INGR,salas316@localhost,cfp-834c2e05-85ee-4dc1-8f2c-0f8caf9e6ea9,propose,1.167,182,True,,classroom-availability
+2025-05-22T01:07:41.122976,SALAZAR PEREZ INGR,salae6@localhost,cfp-933866b3-061b-4831-9648-dac6091bf939,propose,1.174,166,True,,classroom-availability
+2025-05-22T01:07:41.122976,SALAZAR PEREZ INGR,salacm3@localhost,cfp-c34f052b-7387-4423-bf43-c3e57aa128e8,refuse,1.178,19,True,,classroom-availability
+2025-05-22T01:07:41.122976,SALAZAR PEREZ INGR,salalamb@localhost,cfp-cdebe9df-f418-4f2d-be84-485d91f61fea,propose,1.184,124,True,,classroom-availability
+2025-05-22T01:07:41.122976,SALAZAR PEREZ INGR,salak2@localhost,cfp-1d003eee-c3c8-44ae-a4c1-36c12f08df18,propose,1.193,121,True,,classroom-availability
+2025-05-22T01:07:41.143883,MASANA SEPULVEDA P,salaant21@localhost,cfp-c4dcdd91-748f-453f-b88e-2a082f718d61,propose,1.353,225,True,,classroom-availability
+2025-05-22T01:07:41.145413,MASANA SEPULVEDA P,salaic3@localhost,cfp-104a36a1-ebcd-48ea-ad74-a05ff1cbee46,propose,1.340,115,True,,classroom-availability
+2025-05-22T01:07:41.145413,MASANA SEPULVEDA P,salalc6@localhost,cfp-6f23f212-0754-4d3a-b7ff-66336c129e70,propose,1.345,139,True,,classroom-availability
+2025-05-22T01:07:41.145413,MASANA SEPULVEDA P,salalrsm@localhost,cfp-ca8f59ce-f3c8-41ce-baf3-c55ceb326fa4,propose,1.355,212,True,,classroom-availability
+2025-05-22T01:07:41.145413,MASANA SEPULVEDA P,salas210@localhost,cfp-ea74ebd1-01c1-440e-b5f0-11b81e89e777,propose,1.365,140,True,,classroom-availability
+2025-05-22T01:07:41.145413,MASANA SEPULVEDA P,salas316@localhost,cfp-7c8e84df-d66f-4f02-b54a-2f0a7cbcf980,propose,1.371,133,True,,classroom-availability
+2025-05-22T01:07:41.145413,MASANA SEPULVEDA P,salae6@localhost,cfp-2ddab60d-adb0-47fd-9bbe-b4bf4591145f,propose,1.377,166,True,,classroom-availability
+2025-05-22T01:07:41.145413,MASANA SEPULVEDA P,salacm3@localhost,cfp-595c380b-bf6d-4025-9f8b-e24a41d4b4b5,refuse,1.381,19,True,,classroom-availability
+2025-05-22T01:07:41.145413,MASANA SEPULVEDA P,salalamb@localhost,cfp-dce83a89-5189-4fd1-b61f-d4311d45b152,propose,1.380,124,True,,classroom-availability
+2025-05-22T01:07:41.145413,MASANA SEPULVEDA P,salak2@localhost,cfp-adce9683-a440-45f9-a3b0-92f0549017c2,propose,1.389,121,True,,classroom-availability
+2025-05-22T01:07:41.168091,CARMONA MALBRAN RA,salaic3@localhost,cfp-dadf9ed1-0d5c-4166-80be-30ead04914d4,propose,1.247,115,True,,classroom-availability
+2025-05-22T01:07:41.168091,CARMONA MALBRAN RA,salalc6@localhost,cfp-ed621f38-66c0-494f-8750-73bacb58329c,propose,1.216,139,True,,classroom-availability
+2025-05-22T01:07:41.168091,CARMONA MALBRAN RA,salas210@localhost,cfp-d5429512-9bf6-481b-9e65-963c1de47449,propose,1.220,140,True,,classroom-availability
+2025-05-22T01:07:41.168091,CARMONA MALBRAN RA,salae6@localhost,cfp-00991339-7f6e-40d3-8809-693c337585e6,propose,1.228,166,True,,classroom-availability
+2025-05-22T01:07:41.168091,CARMONA MALBRAN RA,salacm3@localhost,cfp-581f5303-57a3-49ab-b134-748704d7fbe1,refuse,1.231,19,True,,classroom-availability
+2025-05-22T01:07:41.168091,CARMONA MALBRAN RA,salalamb@localhost,cfp-354d929d-7e90-491e-b1dd-80a9932e98b2,propose,1.238,124,True,,classroom-availability
+2025-05-22T01:07:41.168091,CARMONA MALBRAN RA,salak2@localhost,cfp-16515ce2-db9d-4fa6-a400-a5f533e11fd0,propose,1.245,121,True,,classroom-availability
+2025-05-22T01:07:41.171091,CARMONA MALBRAN RA,salaic3@localhost,cfp-b2289341-6642-4fb2-be62-06320770a2ea,propose,0.873,115,True,,classroom-availability
+2025-05-22T01:07:41.171091,CARMONA MALBRAN RA,salalc6@localhost,cfp-a3cfa853-d3dd-440f-875c-4c0effafc8bc,propose,0.870,139,True,,classroom-availability
+2025-05-22T01:07:41.171091,CARMONA MALBRAN RA,salas210@localhost,cfp-62c41b4b-a2d1-4ffa-a706-2092212ca08f,propose,0.876,125,True,,classroom-availability
+2025-05-22T01:07:41.171091,CARMONA MALBRAN RA,salae6@localhost,cfp-3765aa47-0a34-4c23-9928-c4b0d95e004b,propose,0.884,166,True,,classroom-availability
+2025-05-22T01:07:41.171091,CARMONA MALBRAN RA,salacm3@localhost,cfp-d22d9988-5707-487b-a169-1bf5e557cf00,refuse,0.888,19,True,,classroom-availability
+2025-05-22T01:07:41.171091,CARMONA MALBRAN RA,salalamb@localhost,cfp-e0b1ba82-2bab-41c7-a17c-6c4241e95544,propose,0.896,124,True,,classroom-availability
+2025-05-22T01:07:41.171091,CARMONA MALBRAN RA,salak2@localhost,cfp-6828a920-47c2-4821-aff5-710c9ba7efbb,propose,0.903,121,True,,classroom-availability
+2025-05-22T01:07:41.191974,CHANDIA CONCHA HEC,salaic3@localhost,cfp-9aa148d8-2930-4035-a9ad-020105ac3c65,propose,1.096,113,True,,classroom-availability
+2025-05-22T01:07:41.191974,CHANDIA CONCHA HEC,salalc6@localhost,cfp-332acde6-2366-4025-995d-7d77ce265497,propose,1.081,139,True,,classroom-availability
+2025-05-22T01:07:41.191974,CHANDIA CONCHA HEC,salas210@localhost,cfp-451b41ec-d6d5-4045-a691-1552cdedb439,propose,1.091,125,True,,classroom-availability
+2025-05-22T01:07:41.191974,CHANDIA CONCHA HEC,salae6@localhost,cfp-7dd23ce8-77f5-41f3-b1ce-959b911ee5a4,propose,1.101,166,True,,classroom-availability
+2025-05-22T01:07:41.191974,CHANDIA CONCHA HEC,salacm3@localhost,cfp-344654f9-7224-42f9-8973-80385be8af11,refuse,1.108,19,True,,classroom-availability
+2025-05-22T01:07:41.191974,CHANDIA CONCHA HEC,salalamb@localhost,cfp-9d782512-9149-4f4c-9436-3405fcf6f641,propose,1.117,124,True,,classroom-availability
+2025-05-22T01:07:41.192999,CHANDIA CONCHA HEC,salak2@localhost,cfp-69e4b109-0cc2-4596-81d3-a33622882bdd,propose,1.136,121,True,,classroom-availability
+2025-05-22T01:07:41.198018,CHANDIA CONCHA HEC,salaant21@localhost,cfp-e13886fb-1cad-4f30-ab88-6b3e519997f9,propose,1.400,191,True,,classroom-availability
+2025-05-22T01:07:41.198018,CHANDIA CONCHA HEC,salaic3@localhost,cfp-07b21b97-f26e-4a4a-82cb-5a3564307d8f,propose,1.386,113,True,,classroom-availability
+2025-05-22T01:07:41.198018,CHANDIA CONCHA HEC,salalc6@localhost,cfp-ab6ebfb4-6f8d-4d0b-9825-74acc10658df,propose,1.406,139,True,,classroom-availability
+2025-05-22T01:07:41.199034,CHANDIA CONCHA HEC,salalrsm@localhost,cfp-bf11ed13-36eb-46f7-b74d-2a3685d93dd6,propose,1.421,212,True,,classroom-availability
+2025-05-22T01:07:41.199034,CHANDIA CONCHA HEC,salalcom@localhost,cfp-b1653efe-2bfa-4027-a640-b8f240400a45,propose,1.434,224,True,,classroom-availability
+2025-05-22T01:07:41.199034,CHANDIA CONCHA HEC,salas210@localhost,cfp-276bb007-1184-411e-ad3f-bad05ca7b9ae,propose,1.443,125,True,,classroom-availability
+2025-05-22T01:07:41.199034,CHANDIA CONCHA HEC,salas316@localhost,cfp-fae96f6a-6494-4419-b410-c10ad95eba8b,propose,1.449,133,True,,classroom-availability
+2025-05-22T01:07:41.199034,CHANDIA CONCHA HEC,salae6@localhost,cfp-f6843629-902d-4453-852b-939c6ed13b68,propose,1.454,117,True,,classroom-availability
+2025-05-22T01:07:41.199034,CHANDIA CONCHA HEC,salacm3@localhost,cfp-3778461d-f154-439c-b820-30b81973f97d,refuse,1.457,19,True,,classroom-availability
+2025-05-22T01:07:41.199034,CHANDIA CONCHA HEC,salatbd@localhost,cfp-40980b92-8fde-40ec-88a4-9fe9644dbfb4,propose,1.464,217,True,,classroom-availability
+2025-05-22T01:07:41.199034,CHANDIA CONCHA HEC,salalamb@localhost,cfp-69840238-66a4-4f7a-a2d0-e92d51cd40a7,propose,1.470,124,True,,classroom-availability
+2025-05-22T01:07:41.199034,CHANDIA CONCHA HEC,salak2@localhost,cfp-2a81e93d-62c1-4f3b-8199-2e42d4c9dc62,propose,1.474,121,True,,classroom-availability

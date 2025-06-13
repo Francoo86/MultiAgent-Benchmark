@@ -1,5 +1,4 @@
 .venv/
-*.csv
 SPADE_output/
 JADE_output/
 deleteme/
