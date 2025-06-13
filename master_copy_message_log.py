@@ -7,7 +7,7 @@ from datetime import datetime
 def get_latest_file(directory, scenario):
     """Find the latest file for a specific scenario in the directory."""
     # Pattern to match files with timestamps
-    pattern = os.path.join(directory, f"rtt_measurements_{scenario}_*.csv")
+    pattern = os.path.join(directory, f"agent_messages_{scenario}_*.csv")
     files = glob.glob(pattern)
     
     if not files:
@@ -37,9 +37,9 @@ CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def main():
     # Define base directories
-    jade_dir = os.path.join(CURRENT_DIR, "JADE_Output", "rtt_logs")
-    spade_dir = os.path.join(CURRENT_DIR, "SPADE_Output", "rtt_logs")
-    target_dir = "rtt"
+    jade_dir = os.path.join(CURRENT_DIR, "JADE_Output", "message_logs")
+    spade_dir = os.path.join(CURRENT_DIR, "SPADE_Output", "message_logs")
+    target_dir = "message_logs"
     
     # Scenarios to process
     scenarios = ["small", "medium", "full"]
