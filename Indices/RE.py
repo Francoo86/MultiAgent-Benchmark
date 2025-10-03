@@ -137,6 +137,14 @@ def main():
     print(df.groupby('campus')['ratio'].agg(['mean', 'min', 'max']).round(4))
     
     print("\nAnálisis de Room Eligibility completado exitosamente")
+    
+def main_with_platform(platform : str):
+    platform = platform.upper()
+    print(f"Iniciando análisis de Room Eligibility para {platform}")
+    for scenario in ['full', 'medium', 'small']:
+        profesores_data = load_json_file(f'../../dataset/scenarios/{scenario}/profesores.json')
+        salas_data = load_json_file(f'../../dataset/scenarios/{scenario}/salas.json')
+        
 
 if __name__ == "__main__":
     main()
